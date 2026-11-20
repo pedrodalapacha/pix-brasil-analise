@@ -92,7 +92,7 @@ Seis páginas, com filtro de ano sincronizado e fundos desenhados no Figma (`pow
 | SQL | `sql/*.sql` e `src/rodar_sql.py` | 6 consultas em DuckDB com CTE, JOIN e window functions (LAG, RANK, participação acumulada) |
 | Análise | `notebooks/01_analise_pix.ipynb` | Nove perguntas, cada uma com gráfico e conclusão |
 | Planilha | `excel/pix_analise.xlsx` | Resumo com fórmulas, tabelas dinâmicas, segmentação e gráfico dinâmico |
-| Dashboard | `powerbi/analise-pix-brasil-power-bi.pbix` | Modelo estrela (7 fatos, 7 dimensões), 37 medidas DAX e 6 páginas |
+| Dashboard | `powerbi/analise-pix-brasil-power-bi.pbix` | Modelo estrela (7 fatos, 6 dimensões), 37 medidas DAX e 6 páginas |
 
 ### Cuidados com os dados
 - **Duas fontes, dois totais.** As tabelas do Pix contam o que é liquidado no SPI; a de meios de pagamento inclui também o Pix liquidado fora do SPI e mostra cerca de 10% a mais em quantidade (09/2026). Nunca somo ou comparo uma com a outra diretamente.
