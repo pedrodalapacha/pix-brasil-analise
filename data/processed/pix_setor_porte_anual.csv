@@ -1,0 +1,1320 @@
+﻿Ano,Setor,Porte,MEI,MesmaTitularidade,Quantidade,Valor
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,7002,274962618.51
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,1979,204733746.44
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,8269,47904280.61
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,1046,9522214.14
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,46287,11860728.379999999
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,225,131711.45
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,2790,23671843.740000002
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,565,9736514.31
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,S,N,57,57635.65
+2020,B - Industrias extrativas,Demais,N,N,3089,45787169.43000001
+2020,B - Industrias extrativas,Demais,N,S,817,86203236.42999999
+2020,B - Industrias extrativas,Microempresa,N,N,2203,10961725.09
+2020,B - Industrias extrativas,Microempresa,N,S,240,2472598.27
+2020,B - Industrias extrativas,Pequeno Porte,N,N,1901,11802618.42
+2020,B - Industrias extrativas,Pequeno Porte,N,S,272,4243400.970000001
+2020,C - Industrias de transformacao,Demais,N,N,160336,2378779954.91
+2020,C - Industrias de transformacao,Demais,N,S,48178,8909943750.18
+2020,C - Industrias de transformacao,Microempresa,N,N,409221,765324758.49
+2020,C - Industrias de transformacao,Microempresa,N,S,52631,272023850.84000003
+2020,C - Industrias de transformacao,Microempresa,S,N,246271,116081790.49000001
+2020,C - Industrias de transformacao,Microempresa,S,S,15494,9273142.98
+2020,C - Industrias de transformacao,Pequeno Porte,N,N,168813,531171389.18
+2020,C - Industrias de transformacao,Pequeno Porte,N,S,31142,335302443.13
+2020,C - Industrias de transformacao,Pequeno Porte,S,N,3175,2079826.86
+2020,C - Industrias de transformacao,Pequeno Porte,S,S,171,206474.38
+2020,D - Eletricidade e gas,Demais,N,N,10164,366210686.35
+2020,D - Eletricidade e gas,Demais,N,S,187,284545638.65
+2020,D - Eletricidade e gas,Microempresa,N,N,271,602991.37
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,3182,30037472.64
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,1173,123692716.67
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,12470,26334891.44
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,1426,9606855.51
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,4100,4343401.92
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,220,323918.82
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,3599,14260102.09
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,611,6579072.5
+2020,F - Construcao,Demais,N,N,29118,507666159.18999994
+2020,F - Construcao,Demais,N,S,11618,795504960.42
+2020,F - Construcao,Microempresa,N,N,127126,365972769.31
+2020,F - Construcao,Microempresa,N,S,20390,97593574.17
+2020,F - Construcao,Microempresa,S,N,125321,91168939.02
+2020,F - Construcao,Microempresa,S,S,7435,5242605.36
+2020,F - Construcao,Pequeno Porte,N,N,34180,185226909.3
+2020,F - Construcao,Pequeno Porte,N,S,10929,113530099.2
+2020,F - Construcao,Pequeno Porte,S,N,1420,1396911.43
+2020,F - Construcao,Pequeno Porte,S,S,127,90139.52
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,824228,4169915242.84
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,98690,11835291298.52
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,532,540144.53
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,S,57,50198.03
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,2234899,2856345342.83
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,296994,1270808137.94
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,860755,401763591.09
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,80760,55008382.419999994
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,722053,1308234504.1100001
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,101127,882411812.7099999
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,12795,8288974.279999999
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,1237,1428773.3199999998
+2020,"H - Transporte, armazenagem e correio",Demais,N,N,52869,653774181.57
+2020,"H - Transporte, armazenagem e correio",Demais,N,S,20467,1721277076.4199998
+2020,"H - Transporte, armazenagem e correio",Microempresa,N,N,146463,450712275.52
+2020,"H - Transporte, armazenagem e correio",Microempresa,N,S,26063,187521133.88000003
+2020,"H - Transporte, armazenagem e correio",Microempresa,S,N,128516,66621318.71
+2020,"H - Transporte, armazenagem e correio",Microempresa,S,S,10777,5117573.76
+2020,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,43533,254180678.09
+2020,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,13123,182159132.18
+2020,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,837,721464.53
+2020,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,101,96471.46
+2020,I - Alojamento e alimentacao,Demais,N,N,28268,70576017.1
+2020,I - Alojamento e alimentacao,Demais,N,S,4185,140611863.35
+2020,I - Alojamento e alimentacao,Microempresa,N,N,336044,225211879.36
+2020,I - Alojamento e alimentacao,Microempresa,N,S,58881,128861072.25
+2020,I - Alojamento e alimentacao,Microempresa,S,N,295849,87431267.98
+2020,I - Alojamento e alimentacao,Microempresa,S,S,38082,15990832.36
+2020,I - Alojamento e alimentacao,Pequeno Porte,N,N,69843,68104576.94
+2020,I - Alojamento e alimentacao,Pequeno Porte,N,S,12401,61106472.71
+2020,I - Alojamento e alimentacao,Pequeno Porte,S,N,2688,1105001.74
+2020,I - Alojamento e alimentacao,Pequeno Porte,S,S,350,341277.58999999997
+2020,J - Informação e comunicação,Demais,N,N,266866,151620928.57
+2020,J - Informação e comunicação,Demais,N,S,5878,747236805.51
+2020,J - Informação e comunicação,Demais,S,N,49,14226.4
+2020,J - Informação e comunicação,Microempresa,N,N,132658,171017010.78
+2020,J - Informação e comunicação,Microempresa,N,S,27861,76139161.21000001
+2020,J - Informação e comunicação,Microempresa,S,N,46972,26391409.630000003
+2020,J - Informação e comunicação,Microempresa,S,S,4291,2712572.96
+2020,J - Informação e comunicação,Pequeno Porte,N,N,27057,47984697.93000001
+2020,J - Informação e comunicação,Pequeno Porte,N,S,6341,41516717.26
+2020,J - Informação e comunicação,Pequeno Porte,S,N,884,616180.03
+2020,J - Informação e comunicação,Pequeno Porte,S,S,58,28526.06
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,409338,1073492448.98
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,6838,1132016818.7
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,S,N,92,81306.6
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,30470,102090913.8
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,4953,37637874.03
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,1532,1184981.7999999998
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,138,174877.32
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,31127,58643581.05
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,2049,34784259.230000004
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,N,56,43102.91
+2020,L - Atividades imobiliarias,Demais,N,N,30604,288522780.77
+2020,L - Atividades imobiliarias,Demais,N,S,3931,195740376.07999998
+2020,L - Atividades imobiliarias,Microempresa,N,N,66135,170090687.25
+2020,L - Atividades imobiliarias,Microempresa,N,S,8415,57977933.67999999
+2020,L - Atividades imobiliarias,Microempresa,S,N,2916,2245118.2
+2020,L - Atividades imobiliarias,Microempresa,S,S,189,213816.58000000002
+2020,L - Atividades imobiliarias,Pequeno Porte,N,N,19030,68761937.19
+2020,L - Atividades imobiliarias,Pequeno Porte,N,S,2993,45562796.04
+2020,L - Atividades imobiliarias,Pequeno Porte,S,N,149,89101.77
+2020,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,571213,1117433387.18
+2020,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,11657,570340890.94
+2020,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,N,57,78403.36
+2020,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,267044,440223419.31
+2020,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,26595,111013610.63000001
+2020,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,132177,72933869.04
+2020,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,8850,6177531.790000001
+2020,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,83518,254395383.8
+2020,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,9529,86016470.56
+2020,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,2393,1696133.75
+2020,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,145,211372.87
+2020,N - Atividades administrativas e servicos complementares,Demais,N,N,147446,545209624.57
+2020,N - Atividades administrativas e servicos complementares,Demais,N,S,15401,1612006833.41
+2020,N - Atividades administrativas e servicos complementares,Microempresa,N,N,387957,724932601.42
+2020,N - Atividades administrativas e servicos complementares,Microempresa,N,S,38754,242763255.56
+2020,N - Atividades administrativas e servicos complementares,Microempresa,S,N,144734,83604049.47
+2020,N - Atividades administrativas e servicos complementares,Microempresa,S,S,9142,8609430.64
+2020,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,96790,295917044.61
+2020,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,14804,170871582.67000002
+2020,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,1941,1927156.8
+2020,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,104,130124.29
+2020,"O - Administracao publica, defesa e seguridade social",Demais,N,N,15474,59266898.04
+2020,"O - Administracao publica, defesa e seguridade social",Demais,N,S,1154,146306886.60999998
+2020,Outros,Outros,Outros,Outros,1833,9246275.41
+2020,P - Educacao,Demais,N,N,39134,75642979.72
+2020,P - Educacao,Demais,N,S,2606,77869958.39999999
+2020,P - Educacao,Microempresa,N,N,151902,130706213.65
+2020,P - Educacao,Microempresa,N,S,13791,48035893.31
+2020,P - Educacao,Microempresa,S,N,67550,33015782.330000002
+2020,P - Educacao,Microempresa,S,S,3591,2116736.45
+2020,P - Educacao,Pequeno Porte,N,N,38597,49310215.54
+2020,P - Educacao,Pequeno Porte,N,S,3012,31480380.99
+2020,P - Educacao,Pequeno Porte,S,N,369,282260.66
+2020,Pessoa fisica,Não informado,N,N,3449,3949021.2900000005
+2020,Q - Saude humana e servicos sociais,Demais,N,N,75451,175463892.88
+2020,Q - Saude humana e servicos sociais,Demais,N,S,8249,618571832.62
+2020,Q - Saude humana e servicos sociais,Microempresa,N,N,123439,162653417.81
+2020,Q - Saude humana e servicos sociais,Microempresa,N,S,9189,34267810.04
+2020,Q - Saude humana e servicos sociais,Microempresa,S,N,6315,2591020.02
+2020,Q - Saude humana e servicos sociais,Microempresa,S,S,308,145550.54
+2020,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,41390,73252330.4
+2020,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,4502,35003883.91
+2020,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,126,91060.58
+2020,"R - Artes, cultura, esporte e recreacao",Demais,N,N,32348,31977856.419999998
+2020,"R - Artes, cultura, esporte e recreacao",Demais,N,S,876,29388127.53
+2020,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,74312,45983484.88
+2020,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,4239,10277568.16
+2020,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,19427,10308403.61
+2020,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,879,593331.46
+2020,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,10145,12244398.280000001
+2020,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,839,3759455.84
+2020,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,266,129387.24
+2020,S - Outras atividades de servicos,Demais,N,N,391840,196264891.44
+2020,S - Outras atividades de servicos,Demais,N,S,6014,174939639.45000002
+2020,S - Outras atividades de servicos,Demais,S,N,44,64077.37
+2020,S - Outras atividades de servicos,Microempresa,N,N,161242,110132922.62
+2020,S - Outras atividades de servicos,Microempresa,N,S,17192,38160778.79
+2020,S - Outras atividades de servicos,Microempresa,S,N,331524,104891020.27000001
+2020,S - Outras atividades de servicos,Microempresa,S,S,24152,11883685.19
+2020,S - Outras atividades de servicos,Pequeno Porte,N,N,21915,22376004.37
+2020,S - Outras atividades de servicos,Pequeno Porte,N,S,2575,16028114.62
+2020,S - Outras atividades de servicos,Pequeno Porte,S,N,1451,604462.69
+2020,S - Outras atividades de servicos,Pequeno Porte,S,S,124,90574.15
+2020,T - Servicos domesticos,Microempresa,N,N,614,305178.25
+2020,T - Servicos domesticos,Microempresa,N,S,79,99261.51
+2020,T - Servicos domesticos,Microempresa,S,N,3369,1125627.63
+2020,T - Servicos domesticos,Microempresa,S,S,116,66132.6
+2020,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,308,292693.64
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,424452,9305911899.289999
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,32866,6285974398.76
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,541994,2470684450.04
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,33624,306592455.27
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,216462,139443245.65
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,9188,6716462.88
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,180284,1389334854.22
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,14699,227807493.38
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,S,N,2547,1594366.99
+2021,B - Industrias extrativas,Demais,N,N,290171,5311842833.11
+2021,B - Industrias extrativas,Demais,N,S,18423,18648551984.39
+2021,B - Industrias extrativas,Microempresa,N,N,200977,630646566.16
+2021,B - Industrias extrativas,Microempresa,N,S,7395,79228876.81
+2021,B - Industrias extrativas,Microempresa,S,N,1511,1911320.44
+2021,B - Industrias extrativas,Pequeno Porte,N,N,176697,493883336.96
+2021,B - Industrias extrativas,Pequeno Porte,N,S,6669,120586063.17999999
+2021,C - Industrias de transformacao,Demais,N,N,10939020,129215825448.9
+2021,C - Industrias de transformacao,Demais,N,S,880233,167138320428.36
+2021,C - Industrias de transformacao,Demais,S,N,3394,1508363.63
+2021,C - Industrias de transformacao,Microempresa,N,N,31063585,37100620779.1
+2021,C - Industrias de transformacao,Microempresa,N,S,1634886,8111786196.5199995
+2021,C - Industrias de transformacao,Microempresa,S,N,15421595,5633120727.69
+2021,C - Industrias de transformacao,Microempresa,S,S,596630,326212949.52
+2021,C - Industrias de transformacao,Pequeno Porte,N,N,11775941,23551227676.07
+2021,C - Industrias de transformacao,Pequeno Porte,N,S,740763,7659125328.88
+2021,C - Industrias de transformacao,Pequeno Porte,S,N,162032,87648997.66
+2021,C - Industrias de transformacao,Pequeno Porte,S,S,6089,5156010.14
+2021,D - Eletricidade e gas,Demais,N,N,9160999,9948310468.29
+2021,D - Eletricidade e gas,Demais,N,S,4989,11060434182.449999
+2021,D - Eletricidade e gas,Microempresa,N,N,4346,56246269.2
+2021,D - Eletricidade e gas,Microempresa,N,S,90,882531.9
+2021,D - Eletricidade e gas,Microempresa,S,N,212,223996.0
+2021,D - Eletricidade e gas,Pequeno Porte,N,N,2246,10094000.67
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,1045051,1776725194.31
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,24391,2337670020.74
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,824198,1597734758.21
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,41964,271101772.85
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,286862,278182219.18
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,9517,11997213.29
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,220542,604242654.2
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,16066,172267634.32
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,S,N,3222,3353462.14
+2021,F - Construcao,Demais,N,N,1284254,18476101193.32
+2021,F - Construcao,Demais,N,S,235070,17282013657.21
+2021,F - Construcao,Demais,S,N,3963,2680477.07
+2021,F - Construcao,Microempresa,N,N,6606383,16808383470.38
+2021,F - Construcao,Microempresa,N,S,598771,3169121710.57
+2021,F - Construcao,Microempresa,S,N,6792503,4524214413.79
+2021,F - Construcao,Microempresa,S,S,281754,191255628.17
+2021,F - Construcao,Pequeno Porte,N,N,1603307,7555803258.55
+2021,F - Construcao,Pequeno Porte,N,S,255627,2681701182.36
+2021,F - Construcao,Pequeno Porte,S,N,65917,58459184.120000005
+2021,F - Construcao,Pequeno Porte,S,S,3208,3585761.81
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,107304646,213262460054.65
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,2777477,280546198503.67
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,25831,17577281.99
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,S,1447,1803768.71
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,239971255,154502497149.09
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,11769504,41566164289.98
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,73293975,20820350861.64
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,3481567,2159728178.59
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,80717571,69329054713.94
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,3386963,24787604620.2
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,871981,357733238.79
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,45823,45833885.41
+2021,"H - Transporte, armazenagem e correio",Demais,N,N,3682724,30444771469.27
+2021,"H - Transporte, armazenagem e correio",Demais,N,S,396848,41010867957.66
+2021,"H - Transporte, armazenagem e correio",Demais,S,N,2050,927268.7899999999
+2021,"H - Transporte, armazenagem e correio",Microempresa,N,N,9499505,20180912106.260002
+2021,"H - Transporte, armazenagem e correio",Microempresa,N,S,675388,5044445186.08
+2021,"H - Transporte, armazenagem e correio",Microempresa,S,N,9234078,3163443597.99
+2021,"H - Transporte, armazenagem e correio",Microempresa,S,S,398717,188587697.09
+2021,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,2787930,10546462467.81
+2021,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,286824,4218724082.09
+2021,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,49765,27277526.6
+2021,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,2005,1474263.1
+2021,I - Alojamento e alimentacao,Demais,N,N,4318759,2974025125.67
+2021,I - Alojamento e alimentacao,Demais,N,S,131101,4665882150.6
+2021,I - Alojamento e alimentacao,Demais,S,N,5220,1198494.01
+2021,I - Alojamento e alimentacao,Microempresa,N,N,56175314,11869985468.44
+2021,I - Alojamento e alimentacao,Microempresa,N,S,2743162,4732010570.78
+2021,I - Alojamento e alimentacao,Microempresa,S,N,40414175,4984782468.63
+2021,I - Alojamento e alimentacao,Microempresa,S,S,2135538,888500332.13
+2021,I - Alojamento e alimentacao,Pequeno Porte,N,N,9392248,3127750917.14
+2021,I - Alojamento e alimentacao,Pequeno Porte,N,S,514471,1879681737.26
+2021,I - Alojamento e alimentacao,Pequeno Porte,S,N,292664,40591316.69
+2021,I - Alojamento e alimentacao,Pequeno Porte,S,S,11526,8631821.07
+2021,J - Informação e comunicação,Demais,N,N,38542634,13577384352.32
+2021,J - Informação e comunicação,Demais,N,S,131097,25866883991.21
+2021,J - Informação e comunicação,Demais,S,N,1994,1075025.27
+2021,J - Informação e comunicação,Microempresa,N,N,13923043,8121908406.63
+2021,J - Informação e comunicação,Microempresa,N,S,601209,2014857961.74
+2021,J - Informação e comunicação,Microempresa,S,N,2014504,950145578.41
+2021,J - Informação e comunicação,Microempresa,S,S,93918,54214461.54
+2021,J - Informação e comunicação,Pequeno Porte,N,N,3296194,2476824774.0099998
+2021,J - Informação e comunicação,Pequeno Porte,N,S,139159,1046609078.75
+2021,J - Informação e comunicação,Pequeno Porte,S,N,37321,15032261.34
+2021,J - Informação e comunicação,Pequeno Porte,S,S,2012,2106177.31
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,53635056,79256490329.54
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,140382,46885205861.31
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,S,N,2784,2042036.41
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,6203314,5298525767.94
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,104342,1030211055.37
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,56346,34897450.13
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,2952,2745397.86
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,10070088,4273636861.2799997
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,36111,779733228.52
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,N,6903,4412495.36
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,S,100,230491.81
+2021,L - Atividades imobiliarias,Demais,N,N,1444502,11176935093.039999
+2021,L - Atividades imobiliarias,Demais,N,S,72869,4590609825.73
+2021,L - Atividades imobiliarias,Microempresa,N,N,3481969,7506600418.62
+2021,L - Atividades imobiliarias,Microempresa,N,S,198202,1392870400.52
+2021,L - Atividades imobiliarias,Microempresa,S,N,121731,85002708.72
+2021,L - Atividades imobiliarias,Microempresa,S,S,6880,5998135.21
+2021,L - Atividades imobiliarias,Pequeno Porte,N,N,1025160,2929713964.31
+2021,L - Atividades imobiliarias,Pequeno Porte,N,S,64448,962286756.76
+2021,L - Atividades imobiliarias,Pequeno Porte,S,N,5081,4222423.9399999995
+2021,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,129027675,42313273708.46
+2021,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,250157,15283043093.71
+2021,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,N,5843,5908836.86
+2021,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,17448636,20110496833.17
+2021,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,752103,3229978697.07
+2021,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,6745693,2941734965.91
+2021,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,282242,182171160.02
+2021,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,6144388,9709751979.22
+2021,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,234226,2242570592.03
+2021,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,79224,47868061.57
+2021,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,4143,4758669.94
+2021,N - Atividades administrativas e servicos complementares,Demais,N,N,100016431,38624155811.53
+2021,N - Atividades administrativas e servicos complementares,Demais,N,S,311535,65681658911.99
+2021,N - Atividades administrativas e servicos complementares,Demais,S,N,2781,1741487.0899999999
+2021,N - Atividades administrativas e servicos complementares,Microempresa,N,N,33809998,31846682219.69
+2021,N - Atividades administrativas e servicos complementares,Microempresa,N,S,1018918,6872022653.58
+2021,N - Atividades administrativas e servicos complementares,Microempresa,S,N,8316023,3736003169.55
+2021,N - Atividades administrativas e servicos complementares,Microempresa,S,S,294365,232108563.14000002
+2021,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,6445626,10596253949.88
+2021,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,323929,3720234759.93
+2021,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,86766,52676173.51
+2021,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,3844,4725663.1
+2021,"O - Administracao publica, defesa e seguridade social",Demais,N,N,9183239,4631478279.8
+2021,"O - Administracao publica, defesa e seguridade social",Demais,N,S,36453,6054958116.57
+2021,Outros,Outros,Outros,Outros,122771,135285169.49
+2021,P - Educacao,Demais,N,N,4381280,3686090612.92
+2021,P - Educacao,Demais,N,S,57038,2271991326.12
+2021,P - Educacao,Demais,S,N,1158,846690.4299999999
+2021,P - Educacao,Microempresa,N,N,12234692,7440402659.4
+2021,P - Educacao,Microempresa,N,S,376755,1224973052.29
+2021,P - Educacao,Microempresa,S,N,3939916,1487074563.96
+2021,P - Educacao,Microempresa,S,S,123146,71947778.87
+2021,P - Educacao,Pequeno Porte,N,N,2924571,2422022464.27
+2021,P - Educacao,Pequeno Porte,N,S,74897,567162867.82
+2021,P - Educacao,Pequeno Porte,S,N,24405,13882484.08
+2021,P - Educacao,Pequeno Porte,S,S,903,625782.47
+2021,Pessoa fisica,Não informado,N,N,22517,34797319.42
+2021,Pessoa fisica,Não informado,S,N,201,107887.11
+2021,Q - Saude humana e servicos sociais,Demais,N,N,5943833,13586946497.9
+2021,Q - Saude humana e servicos sociais,Demais,N,S,165790,11469202311.67
+2021,Q - Saude humana e servicos sociais,Microempresa,N,N,10594151,8518558508.17
+2021,Q - Saude humana e servicos sociais,Microempresa,N,S,286582,967834403.5899999
+2021,Q - Saude humana e servicos sociais,Microempresa,S,N,420329,133308238.04
+2021,Q - Saude humana e servicos sociais,Microempresa,S,S,15586,7721270.15
+2021,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,3637116,4191747454.08
+2021,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,113194,884533311.75
+2021,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,6959,2641407.95
+2021,Q - Saude humana e servicos sociais,Pequeno Porte,S,S,77,32192.81
+2021,"R - Artes, cultura, esporte e recreacao",Demais,N,N,2777975,1903858601.22
+2021,"R - Artes, cultura, esporte e recreacao",Demais,N,S,23307,710982554.23
+2021,"R - Artes, cultura, esporte e recreacao",Demais,S,N,85,26728.84
+2021,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,7667976,2450599511.43
+2021,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,155180,334657905.16
+2021,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,1035469,421700603.8
+2021,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,31265,19479666.080000002
+2021,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,1342323,826032995.39
+2021,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,23850,107492119.44
+2021,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,13462,6201513.29
+2021,S - Outras atividades de servicos,Demais,N,N,30611903,9272421508.69
+2021,S - Outras atividades de servicos,Demais,N,S,157054,3039955656.53
+2021,S - Outras atividades de servicos,Demais,S,N,5074,1477274.16
+2021,S - Outras atividades de servicos,Microempresa,N,N,11689685,5048061328.78
+2021,S - Outras atividades de servicos,Microempresa,N,S,510826,1030150290.0699999
+2021,S - Outras atividades de servicos,Microempresa,S,N,23415082,4737968977.22
+2021,S - Outras atividades de servicos,Microempresa,S,S,858773,376995894.64
+2021,S - Outras atividades de servicos,Pequeno Porte,N,N,1565187,1054541151.92
+2021,S - Outras atividades de servicos,Pequeno Porte,N,S,64740,330479203.14
+2021,S - Outras atividades de servicos,Pequeno Porte,S,N,84168,23859766.0
+2021,S - Outras atividades de servicos,Pequeno Porte,S,S,3662,2480753.4
+2021,T - Servicos domesticos,Microempresa,N,N,27315,13848701.48
+2021,T - Servicos domesticos,Microempresa,N,S,1667,2641227.0
+2021,T - Servicos domesticos,Microempresa,S,N,270335,67821620.33
+2021,T - Servicos domesticos,Microempresa,S,S,7298,2870405.66
+2021,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,66733,24855997.39
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,1070712,19511701677.22
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,62206,11975048944.82
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,1248320,5226595037.35
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,72327,621664333.49
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,597311,348722462.56
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,21107,16302630.26
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,497499,2975241552.78
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,30067,529189008.08
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,S,N,4218,2939685.42
+2022,B - Industrias extrativas,Demais,N,N,569903,13889293300.66
+2022,B - Industrias extrativas,Demais,N,S,29084,24326107453.29
+2022,B - Industrias extrativas,Microempresa,N,N,451337,1623324248.01
+2022,B - Industrias extrativas,Microempresa,N,S,14915,184762980.68
+2022,B - Industrias extrativas,Microempresa,S,N,4071,3336901.4899999998
+2022,B - Industrias extrativas,Pequeno Porte,N,N,403926,1254209652.69
+2022,B - Industrias extrativas,Pequeno Porte,N,S,12295,229610394.41
+2022,C - Industrias de transformacao,Demais,N,N,25271033,260389786526.2
+2022,C - Industrias de transformacao,Demais,N,S,1514500,299245655900.14
+2022,C - Industrias de transformacao,Demais,S,N,4808,4229834.99
+2022,C - Industrias de transformacao,Microempresa,N,N,82967012,72581192336.27
+2022,C - Industrias de transformacao,Microempresa,N,S,4193352,16140310091.04
+2022,C - Industrias de transformacao,Microempresa,S,N,38433167,11763232034.87
+2022,C - Industrias de transformacao,Microempresa,S,S,1276685,664974637.94
+2022,C - Industrias de transformacao,Pequeno Porte,N,N,28092427,44163541019.37
+2022,C - Industrias de transformacao,Pequeno Porte,N,S,1826088,14841931778.84
+2022,C - Industrias de transformacao,Pequeno Porte,S,N,335181,135734201.26
+2022,C - Industrias de transformacao,Pequeno Porte,S,S,11166,9158847.24
+2022,D - Eletricidade e gas,Demais,N,N,44753193,20677695099.06
+2022,D - Eletricidade e gas,Demais,N,S,11144,25739787503.65
+2022,D - Eletricidade e gas,Microempresa,N,N,14565,80325788.27
+2022,D - Eletricidade e gas,Microempresa,N,S,937,6651769.47
+2022,D - Eletricidade e gas,Microempresa,S,N,99,108202.95
+2022,D - Eletricidade e gas,Pequeno Porte,N,N,6808,23326574.95
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,8444445,3807273263.47
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,42584,3607216067.39
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,1596818,3260488119.49
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,84660,492599468.28
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,744997,596974388.62
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,22671,22641602.32
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,419869,1191517188.68
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,30749,338278818.1
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,S,N,6335,9154542.54
+2022,F - Construcao,Demais,N,N,2482835,37643688301.16
+2022,F - Construcao,Demais,N,S,427208,37115386652.83
+2022,F - Construcao,Demais,S,N,5759,4165475.19
+2022,F - Construcao,Microempresa,N,N,13486722,34868025077.71
+2022,F - Construcao,Microempresa,N,S,1223730,6921637412.46
+2022,F - Construcao,Microempresa,S,N,16231087,9882733596.17
+2022,F - Construcao,Microempresa,S,S,636874,407409045.37
+2022,F - Construcao,Pequeno Porte,N,N,3166461,15363460327.76
+2022,F - Construcao,Pequeno Porte,N,S,464584,5751936029.92
+2022,F - Construcao,Pequeno Porte,S,N,119031,101876309.28
+2022,F - Construcao,Pequeno Porte,S,S,6330,7039205.74
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,496187072,470019445988.13
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,10929759,622094007936.72
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,43991,24713308.37
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,S,2286,2598208.31
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,775677078,329508782912.13
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,37044824,87446204526.05
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,219587988,45623525751.14
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,8351788,4686901665.2
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,269074227,147096606813.96
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,12611495,50773957878.49
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,2177023,637232688.61
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,96999,87756524.79
+2022,"H - Transporte, armazenagem e correio",Demais,N,N,14179724,64541382933.72
+2022,"H - Transporte, armazenagem e correio",Demais,N,S,737645,75627516493.29001
+2022,"H - Transporte, armazenagem e correio",Demais,S,N,4700,3708968.45
+2022,"H - Transporte, armazenagem e correio",Microempresa,N,N,24001101,43819303018.7
+2022,"H - Transporte, armazenagem e correio",Microempresa,N,S,1390062,10476372334.66
+2022,"H - Transporte, armazenagem e correio",Microempresa,S,N,28222040,8198888778.58
+2022,"H - Transporte, armazenagem e correio",Microempresa,S,S,894617,431586353.43
+2022,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,7692402,22180558358.3
+2022,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,538320,7942147331.09
+2022,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,104203,67769666.49
+2022,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,3131,3056621.82
+2022,I - Alojamento e alimentacao,Demais,N,N,25400573,7897943788.78
+2022,I - Alojamento e alimentacao,Demais,N,S,805440,8142324857.67
+2022,I - Alojamento e alimentacao,Demais,S,N,17407,2334801.79
+2022,I - Alojamento e alimentacao,Microempresa,N,N,210576202,28944730751.34
+2022,I - Alojamento e alimentacao,Microempresa,N,S,9982135,11783193403.32
+2022,I - Alojamento e alimentacao,Microempresa,S,N,127802070,11773105116.59
+2022,I - Alojamento e alimentacao,Microempresa,S,S,4483727,1922114229.83
+2022,I - Alojamento e alimentacao,Pequeno Porte,N,N,38736734,7854818206.98
+2022,I - Alojamento e alimentacao,Pequeno Porte,N,S,2670438,4613368174.38
+2022,I - Alojamento e alimentacao,Pequeno Porte,S,N,833160,84841687.11
+2022,I - Alojamento e alimentacao,Pequeno Porte,S,S,26457,17351221.32
+2022,J - Informação e comunicação,Demais,N,N,270729401,44567966844.98
+2022,J - Informação e comunicação,Demais,N,S,271384,66452807132.340004
+2022,J - Informação e comunicação,Demais,S,N,3198,1899083.54
+2022,J - Informação e comunicação,Microempresa,N,N,46842004,17516825202.45
+2022,J - Informação e comunicação,Microempresa,N,S,1124388,4442082044.4
+2022,J - Informação e comunicação,Microempresa,S,N,4667973,2020988326.51
+2022,J - Informação e comunicação,Microempresa,S,S,174981,105948140.27
+2022,J - Informação e comunicação,Pequeno Porte,N,N,16504760,5680230938.25
+2022,J - Informação e comunicação,Pequeno Porte,N,S,266610,2324673824.1
+2022,J - Informação e comunicação,Pequeno Porte,S,N,51005,25557929.02
+2022,J - Informação e comunicação,Pequeno Porte,S,S,1964,2464811.38
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,233314257,183140127008.13
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,456882,205179656470.97
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,S,N,4526,3931109.56
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,23541854,13084306288.25
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,223992,2300342461.02
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,115749,67991345.02
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,5514,6355267.28
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,102227233,18677446075.0
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,69131,2355918774.73
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,N,11287,5710711.12
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,S,216,261592.40000000002
+2022,L - Atividades imobiliarias,Demais,N,N,3698249,19425124368.72
+2022,L - Atividades imobiliarias,Demais,N,S,146630,6677396669.94
+2022,L - Atividades imobiliarias,Microempresa,N,N,7219351,14627726266.16
+2022,L - Atividades imobiliarias,Microempresa,N,S,399330,2747178831.47
+2022,L - Atividades imobiliarias,Microempresa,S,N,218499,148182459.97
+2022,L - Atividades imobiliarias,Microempresa,S,S,9559,11279549.6
+2022,L - Atividades imobiliarias,Pequeno Porte,N,N,2109643,5644816003.06
+2022,L - Atividades imobiliarias,Pequeno Porte,N,S,132355,1664936608.44
+2022,L - Atividades imobiliarias,Pequeno Porte,S,N,6412,5681736.26
+2022,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,429450399,99077530418.64
+2022,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,575172,36177231101.56
+2022,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,N,60000,7974200.04
+2022,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,S,163,121543.34
+2022,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,45258394,46702475130.82
+2022,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,1630068,7673796055.22
+2022,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,16646131,6483230952.09
+2022,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,579839,379515848.38
+2022,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,45242849,22358729356.62
+2022,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,470247,4502848017.89
+2022,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,220022,86587893.05
+2022,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,7617,7282431.71
+2022,N - Atividades administrativas e servicos complementares,Demais,N,N,529431758,111343859121.24
+2022,N - Atividades administrativas e servicos complementares,Demais,N,S,604769,121982161229.93
+2022,N - Atividades administrativas e servicos complementares,Demais,S,N,5124,4520015.42
+2022,N - Atividades administrativas e servicos complementares,Microempresa,N,N,82004107,73105895309.81
+2022,N - Atividades administrativas e servicos complementares,Microempresa,N,S,2289452,14785216559.26
+2022,N - Atividades administrativas e servicos complementares,Microempresa,S,N,21932414,9144375809.02
+2022,N - Atividades administrativas e servicos complementares,Microempresa,S,S,632631,494112691.12
+2022,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,21572373,23596897335.75
+2022,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,685318,7768469641.11
+2022,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,177098,108432557.96000001
+2022,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,6467,6785556.06
+2022,"O - Administracao publica, defesa e seguridade social",Demais,N,N,42845217,26712058447.03
+2022,"O - Administracao publica, defesa e seguridade social",Demais,N,S,57306,15543376919.710001
+2022,"O - Administracao publica, defesa e seguridade social",Microempresa,N,N,413,860960.96
+2022,Outros,Outros,Outros,Outros,317850,419947729.05
+2022,P - Educacao,Demais,N,N,14764631,8205638672.67
+2022,P - Educacao,Demais,N,S,175938,4580247766.89
+2022,P - Educacao,Demais,S,N,1525,1428862.5
+2022,P - Educacao,Microempresa,N,N,38056112,16359195471.02
+2022,P - Educacao,Microempresa,N,S,862351,2745493766.96
+2022,P - Educacao,Microempresa,S,N,9563913,3353030504.67
+2022,P - Educacao,Microempresa,S,S,266707,169810140.39
+2022,P - Educacao,Pequeno Porte,N,N,7308413,5040049789.33
+2022,P - Educacao,Pequeno Porte,N,S,168056,1167275710.74
+2022,P - Educacao,Pequeno Porte,S,N,70443,25907274.31
+2022,P - Educacao,Pequeno Porte,S,S,1768,1499405.25
+2022,Pessoa fisica,Não informado,N,N,35812,66403848.84
+2022,Pessoa fisica,Não informado,N,S,452,349729.51
+2022,Q - Saude humana e servicos sociais,Demais,N,N,14274011,33570474542.25
+2022,Q - Saude humana e servicos sociais,Demais,N,S,367762,16314578030.33
+2022,Q - Saude humana e servicos sociais,Microempresa,N,N,27383889,19601950398.89
+2022,Q - Saude humana e servicos sociais,Microempresa,N,S,721573,2301773545.57
+2022,Q - Saude humana e servicos sociais,Microempresa,S,N,1073097,328053935.57
+2022,Q - Saude humana e servicos sociais,Microempresa,S,S,35158,17503526.990000002
+2022,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,9129071,9391768377.51
+2022,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,264984,1915005405.49
+2022,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,16610,6799493.39
+2022,Q - Saude humana e servicos sociais,Pequeno Porte,S,S,165,161398.91999999998
+2022,"R - Artes, cultura, esporte e recreacao",Demais,N,N,35437353,5937338595.69
+2022,"R - Artes, cultura, esporte e recreacao",Demais,N,S,103490,2048298649.73
+2022,"R - Artes, cultura, esporte e recreacao",Demais,S,N,440,189413.75
+2022,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,26222833,6315350914.97
+2022,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,552660,1004439782.37
+2022,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,2648884,1112767403.98
+2022,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,66023,46692620.4
+2022,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,4071618,1728591438.04
+2022,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,107046,350694191.05
+2022,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,28754,16802712.45
+2022,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,S,787,936582.1699999999
+2022,S - Outras atividades de servicos,Demais,N,N,78704051,21331887723.02
+2022,S - Outras atividades de servicos,Demais,N,S,421023,6270531891.94
+2022,S - Outras atividades de servicos,Demais,S,N,10498,3050676.71
+2022,S - Outras atividades de servicos,Microempresa,N,N,27958896,10363001011.9
+2022,S - Outras atividades de servicos,Microempresa,N,S,1147594,2261642464.69
+2022,S - Outras atividades de servicos,Microempresa,S,N,62594416,10609214046.44
+2022,S - Outras atividades de servicos,Microempresa,S,S,2008992,840127335.28
+2022,S - Outras atividades de servicos,Pequeno Porte,N,N,3769736,2031693774.42
+2022,S - Outras atividades de servicos,Pequeno Porte,N,S,144351,718539649.64
+2022,S - Outras atividades de servicos,Pequeno Porte,S,N,188964,42999911.95
+2022,S - Outras atividades de servicos,Pequeno Porte,S,S,6728,5516451.01
+2022,T - Servicos domesticos,Microempresa,N,N,53317,28825343.68
+2022,T - Servicos domesticos,Microempresa,N,S,2083,2735287.4
+2022,T - Servicos domesticos,Microempresa,S,N,863960,199624195.76
+2022,T - Servicos domesticos,Microempresa,S,S,16986,7407098.9
+2022,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,131502,55702011.339999996
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,1762757,30749580888.54
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,110785,20458942336.4
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,1991097,7622664082.61
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,110381,928538248.64
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,935693,541871656.66
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,27384,19217363.2
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,661434,4691827321.54
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,48186,866437548.78
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,S,N,4815,3988797.74
+2023,B - Industrias extrativas,Demais,N,N,781490,21872106317.43
+2023,B - Industrias extrativas,Demais,N,S,41935,37812368007.450005
+2023,B - Industrias extrativas,Microempresa,N,N,619084,1858659609.42
+2023,B - Industrias extrativas,Microempresa,N,S,20849,249067148.39000002
+2023,B - Industrias extrativas,Microempresa,S,N,6172,4177804.93
+2023,B - Industrias extrativas,Pequeno Porte,N,N,565603,1443068409.82
+2023,B - Industrias extrativas,Pequeno Porte,N,S,15660,249003762.53
+2023,C - Industrias de transformacao,Demais,N,N,48392591,383785831343.12
+2023,C - Industrias de transformacao,Demais,N,S,2245419,482523728407.59
+2023,C - Industrias de transformacao,Demais,S,N,4047,2316046.79
+2023,C - Industrias de transformacao,Microempresa,N,N,143989607,98334835344.46
+2023,C - Industrias de transformacao,Microempresa,N,S,8203900,23136182796.11
+2023,C - Industrias de transformacao,Microempresa,S,N,58879060,16212213067.19
+2023,C - Industrias de transformacao,Microempresa,S,S,1895328,940127238.71
+2023,C - Industrias de transformacao,Pequeno Porte,N,N,47434117,59594713481.7
+2023,C - Industrias de transformacao,Pequeno Porte,N,S,3366932,20430174560.03
+2023,C - Industrias de transformacao,Pequeno Porte,S,N,389729,131309309.06
+2023,C - Industrias de transformacao,Pequeno Porte,S,S,13812,10715869.57
+2023,D - Eletricidade e gas,Demais,N,N,108775950,38527458628.42
+2023,D - Eletricidade e gas,Demais,N,S,25473,66539949792.79
+2023,D - Eletricidade e gas,Microempresa,N,N,18539,90801768.28
+2023,D - Eletricidade e gas,Microempresa,N,S,1327,8619565.93
+2023,D - Eletricidade e gas,Pequeno Porte,N,N,9186,41356521.86
+2023,D - Eletricidade e gas,Pequeno Porte,N,S,715,7922514.39
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,39956581,9462114280.65
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,58531,8038391854.47
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,2135765,3983847490.29
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,117932,611972951.71
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,1058635,702512670.77
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,27988,21145727.490000002
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,601870,1555510251.77
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,47896,479848226.65999997
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,S,N,7717,6271176.44
+2023,F - Construcao,Demais,N,N,3799497,59696916890.48
+2023,F - Construcao,Demais,N,S,618738,60639225792.82
+2023,F - Construcao,Demais,S,N,3937,2987637.2
+2023,F - Construcao,Microempresa,N,N,19839171,51366370555.78
+2023,F - Construcao,Microempresa,N,S,1786591,10131992113.76
+2023,F - Construcao,Microempresa,S,N,24437066,14331516605.130001
+2023,F - Construcao,Microempresa,S,S,914181,588011213.62
+2023,F - Construcao,Pequeno Porte,N,N,4519897,22841768827.1
+2023,F - Construcao,Pequeno Porte,N,S,654941,8566638782.7699995
+2023,F - Construcao,Pequeno Porte,S,N,140047,113447896.39
+2023,F - Construcao,Pequeno Porte,S,S,7234,7401298.6
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,1175186120,726666482031.12
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,33040700,914302906026.26
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,64699,24530224.93
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,S,2669,2435355.14
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,1484122406,470250084091.31
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,84506229,127477345283.51001
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,367316998,62482461000.54
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,14093087,7008094407.66
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,532654510,212851834794.65
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,33145689,74294949764.84
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,3166559,731318558.31
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,125912,104126094.75
+2023,"H - Transporte, armazenagem e correio",Demais,N,N,35873211,92743243744.06999
+2023,"H - Transporte, armazenagem e correio",Demais,N,S,1362267,129694315818.93001
+2023,"H - Transporte, armazenagem e correio",Demais,S,N,7670,4352008.5
+2023,"H - Transporte, armazenagem e correio",Microempresa,N,N,38582499,64674329378.770004
+2023,"H - Transporte, armazenagem e correio",Microempresa,N,S,2154031,14582276415.039999
+2023,"H - Transporte, armazenagem e correio",Microempresa,S,N,49012472,13635598505.13
+2023,"H - Transporte, armazenagem e correio",Microempresa,S,S,1275086,625782816.02
+2023,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,12699963,32269298192.91
+2023,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,845686,10955738210.119999
+2023,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,118153,95120142.33
+2023,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,4253,5961242.15
+2023,I - Alojamento e alimentacao,Demais,N,N,69404973,14380561777.38
+2023,I - Alojamento e alimentacao,Demais,N,S,2105411,16046649526.81
+2023,I - Alojamento e alimentacao,Demais,S,N,10034,1404285.2
+2023,I - Alojamento e alimentacao,Microempresa,N,N,410704966,46664042372.65
+2023,I - Alojamento e alimentacao,Microempresa,N,S,24047426,19272237336.49
+2023,I - Alojamento e alimentacao,Microempresa,S,N,211207142,17184947158.52
+2023,I - Alojamento e alimentacao,Microempresa,S,S,6697806,2649685426.13
+2023,I - Alojamento e alimentacao,Pequeno Porte,N,N,83068092,13324888495.28
+2023,I - Alojamento e alimentacao,Pequeno Porte,N,S,7154948,7622538194.2
+2023,I - Alojamento e alimentacao,Pequeno Porte,S,N,1186793,107028974.28
+2023,I - Alojamento e alimentacao,Pequeno Porte,S,S,42428,24713801.45
+2023,J - Informação e comunicação,Demais,N,N,840158786,93950766440.69
+2023,J - Informação e comunicação,Demais,N,S,515680,99121912086.70999
+2023,J - Informação e comunicação,Demais,S,N,424,699995.48
+2023,J - Informação e comunicação,Microempresa,N,N,76860350,26532072326.94
+2023,J - Informação e comunicação,Microempresa,N,S,1702719,7092256001.99
+2023,J - Informação e comunicação,Microempresa,S,N,7217297,3116329226.04
+2023,J - Informação e comunicação,Microempresa,S,S,241432,159774044.71
+2023,J - Informação e comunicação,Pequeno Porte,N,N,32864529,10707182206.81
+2023,J - Informação e comunicação,Pequeno Porte,N,S,433098,3962668606.0
+2023,J - Informação e comunicação,Pequeno Porte,S,N,58323,27248769.759999998
+2023,J - Informação e comunicação,Pequeno Porte,S,S,2207,1559142.98
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,1399004165,439487591023.22003
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,670144,471824047727.45996
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,S,N,4185,3930426.59
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,95652767,21915882199.28
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,330937,3426852667.83
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,145590,89178479.59
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,8346,10169340.58
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,209560010,24105764509.91
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,106335,4464099634.8
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,N,18511,9214129.42
+2023,L - Atividades imobiliarias,Demais,N,N,6597826,29981188642.38
+2023,L - Atividades imobiliarias,Demais,N,S,333489,10261465957.4
+2023,L - Atividades imobiliarias,Microempresa,N,N,10128032,21984341449.0
+2023,L - Atividades imobiliarias,Microempresa,N,S,609875,4188332642.36
+2023,L - Atividades imobiliarias,Microempresa,S,N,260047,175602567.5
+2023,L - Atividades imobiliarias,Microempresa,S,S,11545,12251290.99
+2023,L - Atividades imobiliarias,Pequeno Porte,N,N,2980310,8589654989.65
+2023,L - Atividades imobiliarias,Pequeno Porte,N,S,195959,2526645102.24
+2023,L - Atividades imobiliarias,Pequeno Porte,S,N,6454,6115794.46
+2023,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,1729832205,186600932215.06
+2023,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,1109364,69385276675.77
+2023,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,N,10060,4772822.41
+2023,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,166238406,80206102577.59
+2023,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,2642970,11896404639.73
+2023,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,27056889,9765670021.2
+2023,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,828331,541236174.24
+2023,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,220732472,52104894389.31
+2023,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,771541,8181637878.59
+2023,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,879357,173088266.03
+2023,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,12074,15110571.38
+2023,N - Atividades administrativas e servicos complementares,Demais,N,N,1349380574,222714856851.9
+2023,N - Atividades administrativas e servicos complementares,Demais,N,S,2722979,249458199123.47998
+2023,N - Atividades administrativas e servicos complementares,Demais,S,N,3556,6092438.7700000005
+2023,N - Atividades administrativas e servicos complementares,Microempresa,N,N,238737488,115501593434.4
+2023,N - Atividades administrativas e servicos complementares,Microempresa,N,S,3680405,22433950942.989998
+2023,N - Atividades administrativas e servicos complementares,Microempresa,S,N,35161190,14033106917.89
+2023,N - Atividades administrativas e servicos complementares,Microempresa,S,S,970497,717126952.13
+2023,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,52031681,36250943388.71
+2023,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,1088856,11920455563.15
+2023,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,229170,125911998.49
+2023,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,9068,10418091.34
+2023,"O - Administracao publica, defesa e seguridade social",Demais,N,N,90147717,53316269904.74
+2023,"O - Administracao publica, defesa e seguridade social",Demais,N,S,101854,27201826258.23
+2023,"O - Administracao publica, defesa e seguridade social",Microempresa,N,N,851,2112223.47
+2023,Outros,Outros,Outros,Outros,416251,459894927.08
+2023,P - Educacao,Demais,N,N,31773439,15944364421.289999
+2023,P - Educacao,Demais,N,S,468951,9882412824.57
+2023,P - Educacao,Demais,S,N,2652,1539675.37
+2023,P - Educacao,Microempresa,N,N,45501735,25426772423.82
+2023,P - Educacao,Microempresa,N,S,1521293,4879742877.04
+2023,P - Educacao,Microempresa,S,N,14977097,5308996517.65
+2023,P - Educacao,Microempresa,S,S,419016,274533883.5
+2023,P - Educacao,Pequeno Porte,N,N,14727304,8180326385.59
+2023,P - Educacao,Pequeno Porte,N,S,337881,2296278634.91
+2023,P - Educacao,Pequeno Porte,S,N,76338,29047592.78
+2023,P - Educacao,Pequeno Porte,S,S,2271,2468348.84
+2023,Pessoa fisica,Não informado,N,N,13720,50968469.25
+2023,Q - Saude humana e servicos sociais,Demais,N,N,23869363,53765879733.92
+2023,Q - Saude humana e servicos sociais,Demais,N,S,901496,31257454737.87
+2023,Q - Saude humana e servicos sociais,Microempresa,N,N,44721472,33920353030.63
+2023,Q - Saude humana e servicos sociais,Microempresa,N,S,1566897,4494833018.11
+2023,Q - Saude humana e servicos sociais,Microempresa,S,N,1593105,512216195.66
+2023,Q - Saude humana e servicos sociais,Microempresa,S,S,52019,27610840.34
+2023,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,14454727,15710362036.61
+2023,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,525608,3267285908.59
+2023,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,25649,7238557.74
+2023,Q - Saude humana e servicos sociais,Pequeno Porte,S,S,1019,789681.91
+2023,"R - Artes, cultura, esporte e recreacao",Demais,N,N,99312143,10961946949.460001
+2023,"R - Artes, cultura, esporte e recreacao",Demais,N,S,411617,4661169779.04
+2023,"R - Artes, cultura, esporte e recreacao",Demais,S,N,314,44710.5
+2023,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,73515842,11471214961.67
+2023,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,1310300,1949684179.73
+2023,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,4034246,1635514256.08
+2023,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,101196,65397898.51
+2023,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,54875194,4363316468.78
+2023,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,297270,671050997.14
+2023,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,44539,19085505.11
+2023,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,S,921,1321228.43
+2023,S - Outras atividades de servicos,Demais,N,N,138531336,36112119856.770004
+2023,S - Outras atividades de servicos,Demais,N,S,1160199,10838397426.029999
+2023,S - Outras atividades de servicos,Demais,S,N,9744,2120599.02
+2023,S - Outras atividades de servicos,Microempresa,N,N,45827030,15537443184.21
+2023,S - Outras atividades de servicos,Microempresa,N,S,2059588,3701004146.38
+2023,S - Outras atividades de servicos,Microempresa,S,N,99023185,15640087027.94
+2023,S - Outras atividades de servicos,Microempresa,S,S,3562494,1476284358.78
+2023,S - Outras atividades de servicos,Pequeno Porte,N,N,5923543,2845077178.07
+2023,S - Outras atividades de servicos,Pequeno Porte,N,S,254921,1050737103.8
+2023,S - Outras atividades de servicos,Pequeno Porte,S,N,227578,48678792.5
+2023,S - Outras atividades de servicos,Pequeno Porte,S,S,8454,7207526.16
+2023,T - Servicos domesticos,Microempresa,N,N,92699,41891228.08
+2023,T - Servicos domesticos,Microempresa,N,S,2936,3112137.84
+2023,T - Servicos domesticos,Microempresa,S,N,1455255,338164076.48
+2023,T - Servicos domesticos,Microempresa,S,S,26179,10870388.94
+2023,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,284414,94200767.85
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,2575831,46598099887.37
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,159526,39573319763.46
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,2906923,11514481938.7
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,171295,1412628927.11
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,1280923,702483498.47
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,37661,24224329.05
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,877568,7239771618.99
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,72857,1279805064.9
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,S,N,7849,5028765.43
+2024,B - Industrias extrativas,Demais,N,N,961415,38051843238.03
+2024,B - Industrias extrativas,Demais,N,S,49654,146521074370.16
+2024,B - Industrias extrativas,Microempresa,N,N,794710,2532093563.83
+2024,B - Industrias extrativas,Microempresa,N,S,27580,367366961.40999997
+2024,B - Industrias extrativas,Microempresa,S,N,3272,3205592.58
+2024,B - Industrias extrativas,Pequeno Porte,N,N,674590,2125497876.78
+2024,B - Industrias extrativas,Pequeno Porte,N,S,19564,347790827.72
+2024,C - Industrias de transformacao,Demais,N,N,68804570,586458635732.71
+2024,C - Industrias de transformacao,Demais,N,S,3128929,816570259553.1
+2024,C - Industrias de transformacao,Demais,S,N,1621,941624.8200000001
+2024,C - Industrias de transformacao,Microempresa,N,N,225812831,136741957384.67
+2024,C - Industrias de transformacao,Microempresa,N,S,13440677,32733189172.7
+2024,C - Industrias de transformacao,Microempresa,S,N,76335088,19428551371.36
+2024,C - Industrias de transformacao,Microempresa,S,S,2572386,1170530603.41
+2024,C - Industrias de transformacao,Pequeno Porte,N,N,70221523,81347616068.7
+2024,C - Industrias de transformacao,Pequeno Porte,N,S,4868024,28793818459.98
+2024,C - Industrias de transformacao,Pequeno Porte,S,N,305027,113190437.11
+2024,C - Industrias de transformacao,Pequeno Porte,S,S,11177,9172995.09
+2024,D - Eletricidade e gas,Demais,N,N,224070298,75105276083.14
+2024,D - Eletricidade e gas,Demais,N,S,66815,102623702349.02
+2024,D - Eletricidade e gas,Microempresa,N,N,23264,122112949.05
+2024,D - Eletricidade e gas,Microempresa,N,S,2320,20119960.67
+2024,D - Eletricidade e gas,Pequeno Porte,N,N,10612,72839546.29
+2024,D - Eletricidade e gas,Pequeno Porte,N,S,732,8054117.49
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,101372895,20159492361.77
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,84718,18992182322.579998
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,2808037,5576796378.25
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,170564,1002844393.14
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,1199361,894440061.39
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,30873,26168689.45
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,835828,2310323358.05
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,54820,715270962.8
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,S,N,4976,5036755.73
+2024,F - Construcao,Demais,N,N,5443194,99202790238.1
+2024,F - Construcao,Demais,N,S,841807,97145249451.16
+2024,F - Construcao,Demais,S,N,2548,2533214.45
+2024,F - Construcao,Microempresa,N,N,29315017,78787106693.65
+2024,F - Construcao,Microempresa,N,S,2492757,15198763577.91
+2024,F - Construcao,Microempresa,S,N,29351761,17317688874.51
+2024,F - Construcao,Microempresa,S,S,1029983,716639725.53
+2024,F - Construcao,Pequeno Porte,N,N,6266796,34487531766.36
+2024,F - Construcao,Pequeno Porte,N,S,850534,12732439669.16
+2024,F - Construcao,Pequeno Porte,S,N,101366,88082643.91
+2024,F - Construcao,Pequeno Porte,S,S,4882,5032051.75
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,2008561296,1163629177777.61
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,62469897,1340671799548.69
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,67448,18038891.28
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,S,1878,1882854.02
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,2382458278,663195690693.55
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,154471318,185001619912.05
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,508686447,75980664390.61
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,20510774,8750081031.22
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,957428223,317535699232.79
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,61952918,110435240626.49
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,3260028,650222861.61
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,150842,92415647.27
+2024,"H - Transporte, armazenagem e correio",Demais,N,N,69185464,148982553217.4
+2024,"H - Transporte, armazenagem e correio",Demais,N,S,2441117,199008970321.98
+2024,"H - Transporte, armazenagem e correio",Demais,S,N,840,373539.7
+2024,"H - Transporte, armazenagem e correio",Microempresa,N,N,57737142,96898645304.67
+2024,"H - Transporte, armazenagem e correio",Microempresa,N,S,3266675,20940969522.1
+2024,"H - Transporte, armazenagem e correio",Microempresa,S,N,65217230,19567533280.54
+2024,"H - Transporte, armazenagem e correio",Microempresa,S,S,1601639,798296242.89
+2024,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,19762264,49434379520.799995
+2024,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,1397342,15944327956.85
+2024,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,93019,88416301.67
+2024,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,3797,6438538.45
+2024,I - Alojamento e alimentacao,Demais,N,N,119919512,23446794134.94
+2024,I - Alojamento e alimentacao,Demais,N,S,3735381,25372575239.86
+2024,I - Alojamento e alimentacao,Microempresa,N,N,662639875,70533374576.21
+2024,I - Alojamento e alimentacao,Microempresa,N,S,42181675,28909346436.83
+2024,I - Alojamento e alimentacao,Microempresa,S,N,289809059,22205486414.8
+2024,I - Alojamento e alimentacao,Microempresa,S,S,9903651,3362991336.2599998
+2024,I - Alojamento e alimentacao,Pequeno Porte,N,N,137206393,20414211669.920002
+2024,I - Alojamento e alimentacao,Pequeno Porte,N,S,12125526,11392459541.91
+2024,I - Alojamento e alimentacao,Pequeno Porte,S,N,1155583,96939554.66
+2024,I - Alojamento e alimentacao,Pequeno Porte,S,S,51548,23058482.79
+2024,J - Informação e comunicação,Demais,N,N,1557950585,177620383872.26
+2024,J - Informação e comunicação,Demais,N,S,1239641,184092074807.31
+2024,J - Informação e comunicação,Microempresa,N,N,118992624,41974132906.63
+2024,J - Informação e comunicação,Microempresa,N,S,2434950,10226945609.380001
+2024,J - Informação e comunicação,Microempresa,S,N,8949515,4172392001.42
+2024,J - Informação e comunicação,Microempresa,S,S,277696,196162266.82
+2024,J - Informação e comunicação,Pequeno Porte,N,N,243537371,23684848059.63
+2024,J - Informação e comunicação,Pequeno Porte,N,S,639918,6943908476.77
+2024,J - Informação e comunicação,Pequeno Porte,S,N,45025,25493923.43
+2024,J - Informação e comunicação,Pequeno Porte,S,S,1982,1618056.44
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,2194276059,1052702330486.79
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,1405306,865526289344.48
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,S,N,4317,3613103.95
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,539431995,50850964464.21
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,493376,7528722118.04
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,153978,104980255.55
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,9593,8419499.72
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,382783339,36265599730.7
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,187989,6121314178.63
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,N,34173,10118833.64
+2024,L - Atividades imobiliarias,Demais,N,N,10394704,46035196915.38
+2024,L - Atividades imobiliarias,Demais,N,S,455323,17793773854.920002
+2024,L - Atividades imobiliarias,Microempresa,N,N,13290742,34363414227.7
+2024,L - Atividades imobiliarias,Microempresa,N,S,864428,5891364284.69
+2024,L - Atividades imobiliarias,Microempresa,S,N,241431,187018188.26
+2024,L - Atividades imobiliarias,Microempresa,S,S,9423,11318045.1
+2024,L - Atividades imobiliarias,Pequeno Porte,N,N,3893429,13670482447.92
+2024,L - Atividades imobiliarias,Pequeno Porte,N,S,252634,3641913699.46
+2024,L - Atividades imobiliarias,Pequeno Porte,S,N,4274,7417912.04
+2024,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,2573188893,316272741400.64
+2024,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,2385911,147810256273.1
+2024,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,N,16451,4595832.54
+2024,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,1029622585,154755995610.58002
+2024,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,4081211,20311289201.78
+2024,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,34502044,12862755317.0
+2024,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,987858,664888499.28
+2024,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,2001173318,143353544345.16
+2024,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,1253839,25531633068.53
+2024,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,300976,158685463.38
+2024,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,11282,16384097.33
+2024,N - Atividades administrativas e servicos complementares,Demais,N,N,2285728098,414926672965.5
+2024,N - Atividades administrativas e servicos complementares,Demais,N,S,6555840,383194420722.82
+2024,N - Atividades administrativas e servicos complementares,Demais,S,N,3425,5834389.59
+2024,N - Atividades administrativas e servicos complementares,Microempresa,N,N,268677178,170215717395.31
+2024,N - Atividades administrativas e servicos complementares,Microempresa,N,S,5585863,35203227808.95
+2024,N - Atividades administrativas e servicos complementares,Microempresa,S,N,46308705,18263444242.9
+2024,N - Atividades administrativas e servicos complementares,Microempresa,S,S,1209630,886714488.42
+2024,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,130097230,55830449766.57
+2024,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,1555325,17647339083.18
+2024,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,194137,116469848.06
+2024,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,7490,10885646.78
+2024,"O - Administracao publica, defesa e seguridade social",Demais,N,N,162265038,128912263141.13
+2024,"O - Administracao publica, defesa e seguridade social",Demais,N,S,153612,30115318685.32
+2024,"O - Administracao publica, defesa e seguridade social",Microempresa,N,N,6407,6584428.48
+2024,Outros,Outros,Outros,Outros,666466,800287428.34
+2024,P - Educacao,Demais,N,N,49029334,26263285126.6
+2024,P - Educacao,Demais,N,S,1152611,19971766842.86
+2024,P - Educacao,Demais,S,N,263,116065.62
+2024,P - Educacao,Microempresa,N,N,62875264,36440839934.34
+2024,P - Educacao,Microempresa,N,S,2511897,8236438364.22
+2024,P - Educacao,Microempresa,S,N,18887182,7176408937.7
+2024,P - Educacao,Microempresa,S,S,559439,377860883.88
+2024,P - Educacao,Pequeno Porte,N,N,17733539,11521002648.07
+2024,P - Educacao,Pequeno Porte,N,S,613171,3667238944.11
+2024,P - Educacao,Pequeno Porte,S,N,56858,20525213.15
+2024,P - Educacao,Pequeno Porte,S,S,1884,1817684.51
+2024,Pessoa fisica,Não informado,N,N,52160,82436509.05
+2024,Q - Saude humana e servicos sociais,Demais,N,N,36135305,75983145073.82
+2024,Q - Saude humana e servicos sociais,Demais,N,S,1748919,52441328391.11
+2024,Q - Saude humana e servicos sociais,Microempresa,N,N,64777604,50680645780.67
+2024,Q - Saude humana e servicos sociais,Microempresa,N,S,2864010,8234405510.809999
+2024,Q - Saude humana e servicos sociais,Microempresa,S,N,1962680,662792164.52
+2024,Q - Saude humana e servicos sociais,Microempresa,S,S,63348,28888491.99
+2024,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,20168313,22120892129.04
+2024,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,901347,5496342707.79
+2024,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,38074,6441082.11
+2024,Q - Saude humana e servicos sociais,Pequeno Porte,S,S,1061,611135.17
+2024,"R - Artes, cultura, esporte e recreacao",Demais,N,N,459149936,30867874205.72
+2024,"R - Artes, cultura, esporte e recreacao",Demais,N,S,1098263,10754907871.15
+2024,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,218901841,21295482519.6
+2024,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,2387274,3309685256.29
+2024,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,5294883,2140578401.71
+2024,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,124255,83196020.26
+2024,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,373333504,19082771072.27
+2024,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,544191,1819072575.19
+2024,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,36054,15038868.57
+2024,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,S,738,952285.46
+2024,S - Outras atividades de servicos,Demais,N,N,223767673,54698443205.0
+2024,S - Outras atividades de servicos,Demais,N,S,2703400,22348853200.34
+2024,S - Outras atividades de servicos,Demais,S,N,2351,534844.54
+2024,S - Outras atividades de servicos,Microempresa,N,N,81171866,23057613878.75
+2024,S - Outras atividades de servicos,Microempresa,N,S,3621227,5854822287.55
+2024,S - Outras atividades de servicos,Microempresa,S,N,128669981,20188959843.510002
+2024,S - Outras atividades de servicos,Microempresa,S,S,5014612,2066049771.22
+2024,S - Outras atividades de servicos,Pequeno Porte,N,N,8723805,3967988638.13
+2024,S - Outras atividades de servicos,Pequeno Porte,N,S,430657,1571577344.3500001
+2024,S - Outras atividades de servicos,Pequeno Porte,S,N,229023,49788821.07
+2024,S - Outras atividades de servicos,Pequeno Porte,S,S,12188,8083149.48
+2024,T - Servicos domesticos,Microempresa,N,N,155168,75357093.23
+2024,T - Servicos domesticos,Microempresa,N,S,5391,6450662.06
+2024,T - Servicos domesticos,Microempresa,S,N,1944660,475902941.47
+2024,T - Servicos domesticos,Microempresa,S,S,35479,14894112.43
+2024,T - Servicos domesticos,Pequeno Porte,N,N,2521,1630689.01
+2024,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,253302,134300089.74
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,3528476,67840779716.33
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,205514,61532127723.14
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,4118459,16483237249.26
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,240426,1813678285.85
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,1691886,937786765.78
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,47968,31674974.57
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,1279409,10561105822.88
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,92319,1627829601.12
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,S,N,636,1191665.82
+2025,B - Industrias extrativas,Demais,N,N,1117490,67433334160.81
+2025,B - Industrias extrativas,Demais,N,S,63467,286022664911.58
+2025,B - Industrias extrativas,Microempresa,N,N,1000553,3060697153.88
+2025,B - Industrias extrativas,Microempresa,N,S,35540,457771723.14
+2025,B - Industrias extrativas,Microempresa,S,N,642,327656.57999999996
+2025,B - Industrias extrativas,Pequeno Porte,N,N,760516,2531349022.86
+2025,B - Industrias extrativas,Pequeno Porte,N,S,23767,433153692.6
+2025,C - Industrias de transformacao,Demais,N,N,80912935,775613063709.86
+2025,C - Industrias de transformacao,Demais,N,S,3846044,1105878414230.12
+2025,C - Industrias de transformacao,Microempresa,N,N,330208230,175597079696.29
+2025,C - Industrias de transformacao,Microempresa,N,S,20902793,41827848511.85
+2025,C - Industrias de transformacao,Microempresa,S,N,98032680,23493972422.77
+2025,C - Industrias de transformacao,Microempresa,S,S,3315281,1325470061.55
+2025,C - Industrias de transformacao,Pequeno Porte,N,N,104086776,101040395460.38
+2025,C - Industrias de transformacao,Pequeno Porte,N,S,6862662,36256163129.31
+2025,C - Industrias de transformacao,Pequeno Porte,S,N,223504,72923634.36
+2025,C - Industrias de transformacao,Pequeno Porte,S,S,5462,5127209.3
+2025,D - Eletricidade e gas,Demais,N,N,323153542,106874011700.97
+2025,D - Eletricidade e gas,Demais,N,S,118043,156927604021.62
+2025,D - Eletricidade e gas,Microempresa,N,N,70596,223429420.37
+2025,D - Eletricidade e gas,Microempresa,N,S,2063,23421301.17
+2025,D - Eletricidade e gas,Pequeno Porte,N,N,12915,103119072.03
+2025,D - Eletricidade e gas,Pequeno Porte,N,S,1230,14969575.9
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,153838477,31302475178.97
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,125661,59287186324.25
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,3500674,7602195038.5199995
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,219114,1129186890.52
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,1413668,1020654438.74
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,34890,30501719.61
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,1163149,3237920566.58
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,65134,933841255.45
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,S,N,665,1078882.32
+2025,F - Construcao,Demais,N,N,6740018,132295137256.31999
+2025,F - Construcao,Demais,N,S,1023352,139312409900.69
+2025,F - Construcao,Demais,S,N,715,634707.22
+2025,F - Construcao,Microempresa,N,N,41164760,105264527598.55
+2025,F - Construcao,Microempresa,N,S,3337349,19649552323.16
+2025,F - Construcao,Microempresa,S,N,33048478,20913485793.760002
+2025,F - Construcao,Microempresa,S,S,1094046,767477212.18
+2025,F - Construcao,Não informado,N,N,72,152585.89
+2025,F - Construcao,Pequeno Porte,N,N,8368421,45447564970.25
+2025,F - Construcao,Pequeno Porte,N,S,1021991,16160331582.619999
+2025,F - Construcao,Pequeno Porte,S,N,40788,54329410.23
+2025,F - Construcao,Pequeno Porte,S,S,1745,2952886.15
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,2783275459,1522191835149.11
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,89698106,1733868319495.49
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,6173,3857174.54
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,3500195576,860641971468.37
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,250095643,239110679773.49
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,662067147,88865007435.36
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,27738921,9654645906.14
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,N,N,7321,1058923.88
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,1286834857,409672776567.9
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,95526917,143334849555.77
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,2133197,410522269.18
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,141289,60956420.18
+2025,"H - Transporte, armazenagem e correio",Demais,N,N,103218178,196041581215.69
+2025,"H - Transporte, armazenagem e correio",Demais,N,S,4433757,260280253590.99
+2025,"H - Transporte, armazenagem e correio",Microempresa,N,N,84855418,129064781026.46
+2025,"H - Transporte, armazenagem e correio",Microempresa,N,S,4771395,26880716750.92
+2025,"H - Transporte, armazenagem e correio",Microempresa,S,N,91038971,29123946172.93
+2025,"H - Transporte, armazenagem e correio",Microempresa,S,S,2084027,1164326805.93
+2025,"H - Transporte, armazenagem e correio",Não informado,N,N,85,144145.08
+2025,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,26231813,66161413790.35
+2025,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,2059179,20352792995.23
+2025,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,52317,66309153.11
+2025,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,1751,2591492.65
+2025,I - Alojamento e alimentacao,Demais,N,N,154638917,30775679021.28
+2025,I - Alojamento e alimentacao,Demais,N,S,5516417,31411246356.62
+2025,I - Alojamento e alimentacao,Microempresa,N,N,979439406,99709989455.57
+2025,I - Alojamento e alimentacao,Microempresa,N,S,65712726,40528451005.770004
+2025,I - Alojamento e alimentacao,Microempresa,S,N,365632337,26248986218.75
+2025,I - Alojamento e alimentacao,Microempresa,S,S,13633076,3821720946.93
+2025,I - Alojamento e alimentacao,Não informado,N,N,973,128550.55
+2025,I - Alojamento e alimentacao,Pequeno Porte,N,N,188412595,27373469692.54
+2025,I - Alojamento e alimentacao,Pequeno Porte,N,S,17364284,15756503729.54
+2025,I - Alojamento e alimentacao,Pequeno Porte,S,N,759806,61797830.53
+2025,I - Alojamento e alimentacao,Pequeno Porte,S,S,38763,17530645.18
+2025,J - Informação e comunicação,Demais,N,N,1291523690,198038352870.35
+2025,J - Informação e comunicação,Demais,N,S,1469952,367381978035.73
+2025,J - Informação e comunicação,Microempresa,N,N,536441108,70921450092.05
+2025,J - Informação e comunicação,Microempresa,N,S,3031462,13522166091.2
+2025,J - Informação e comunicação,Microempresa,S,N,10584414,5157602330.92
+2025,J - Informação e comunicação,Microempresa,S,S,274504,187974238.44
+2025,J - Informação e comunicação,Pequeno Porte,N,N,425275295,37111755780.58
+2025,J - Informação e comunicação,Pequeno Porte,N,S,719352,8165939078.070001
+2025,J - Informação e comunicação,Pequeno Porte,S,N,45882,14874985.76
+2025,J - Informação e comunicação,Pequeno Porte,S,S,642,1258040.16
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,1548581760,1625048929358.11
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,3557600,1562038922378.66
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,S,N,477,1245800.15
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,334236728,50263569856.659996
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,620877,5517114857.7
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,105722,70746507.17
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,13992,5794896.06
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,578106057,61136565198.729996
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,229422,4869083989.9
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,S,N,5947,1837921.03
+2025,L - Atividades imobiliarias,Demais,N,N,12935213,64602120972.17
+2025,L - Atividades imobiliarias,Demais,N,S,849109,21347128881.69
+2025,L - Atividades imobiliarias,Microempresa,N,N,16454393,47425763108.1
+2025,L - Atividades imobiliarias,Microempresa,N,S,1081763,7795099822.82
+2025,L - Atividades imobiliarias,Microempresa,S,N,137202,122853020.35
+2025,L - Atividades imobiliarias,Microempresa,S,S,3973,5156699.04
+2025,L - Atividades imobiliarias,Pequeno Porte,N,N,4862923,19606971745.71
+2025,L - Atividades imobiliarias,Pequeno Porte,N,S,309174,4992386118.22
+2025,L - Atividades imobiliarias,Pequeno Porte,S,N,2933,3849941.01
+2025,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,2321400828,406631304429.12
+2025,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,3276230,271196030076.78
+2025,"M - Atividades profissionais, cientificas e tecnicas",Demais,S,N,10897,2348740.45
+2025,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,2571426804,257389315956.54
+2025,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,5613929,25955110428.89
+2025,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,39179079,15519434590.07
+2025,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,1097867,713449277.62
+2025,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,366353469,101210764821.18
+2025,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,1607460,19055857748.25
+2025,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,126326,63408269.24
+2025,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,2987,4505882.55
+2025,N - Atividades administrativas e servicos complementares,Demais,N,N,1992748274,501239347665.38
+2025,N - Atividades administrativas e servicos complementares,Demais,N,S,7665613,458905217876.45
+2025,N - Atividades administrativas e servicos complementares,Microempresa,N,N,283108397,238195419367.79
+2025,N - Atividades administrativas e servicos complementares,Microempresa,N,S,7565625,44761367678.26
+2025,N - Atividades administrativas e servicos complementares,Microempresa,S,N,56468830,23004361884.0
+2025,N - Atividades administrativas e servicos complementares,Microempresa,S,S,1439103,977693417.61
+2025,N - Atividades administrativas e servicos complementares,Não informado,N,N,338,318300.28
+2025,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,328160832,81725096014.45
+2025,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,1941475,22977518534.92
+2025,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,131318,85217818.38
+2025,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,4070,6580089.88
+2025,"O - Administracao publica, defesa e seguridade social",Demais,N,N,246435547,242354842594.38
+2025,"O - Administracao publica, defesa e seguridade social",Demais,N,S,277083,35939410031.09
+2025,"O - Administracao publica, defesa e seguridade social",Microempresa,N,N,3141,7435103.48
+2025,"O - Administracao publica, defesa e seguridade social",Pequeno Porte,N,N,1955,1443069.11
+2025,Outros,Outros,Outros,Outros,2245985,1269778753.07
+2025,P - Educacao,Demais,N,N,59471898,36076677206.32
+2025,P - Educacao,Demais,N,S,1533230,28237879878.85
+2025,P - Educacao,Microempresa,N,N,150102466,50475721702.08
+2025,P - Educacao,Microempresa,N,S,3252721,10664434766.75
+2025,P - Educacao,Microempresa,S,N,23381733,9432076097.92
+2025,P - Educacao,Microempresa,S,S,682958,511552755.72
+2025,P - Educacao,Pequeno Porte,N,N,80377859,16567315288.98
+2025,P - Educacao,Pequeno Porte,N,S,733959,4581801495.08
+2025,P - Educacao,Pequeno Porte,S,N,25296,12929765.52
+2025,P - Educacao,Pequeno Porte,S,S,748,613227.84
+2025,Pessoa fisica,Não informado,N,N,28909,333573437.13
+2025,Q - Saude humana e servicos sociais,Demais,N,N,44818467,93494640540.7
+2025,Q - Saude humana e servicos sociais,Demais,N,S,2726284,74030844432.76
+2025,Q - Saude humana e servicos sociais,Microempresa,N,N,88424064,72954818317.55
+2025,Q - Saude humana e servicos sociais,Microempresa,N,S,4352496,12472019264.85
+2025,Q - Saude humana e servicos sociais,Microempresa,S,N,2148434,841082304.2
+2025,Q - Saude humana e servicos sociais,Microempresa,S,S,50476,26141378.7
+2025,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,25585672,29708341139.010002
+2025,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,1354354,7844287082.78
+2025,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,8297,2710407.22
+2025,Q - Saude humana e servicos sociais,Pequeno Porte,S,S,140,140074.46
+2025,"R - Artes, cultura, esporte e recreacao",Demais,N,N,3861790208,300213377454.34
+2025,"R - Artes, cultura, esporte e recreacao",Demais,N,S,1703590,62947177513.06
+2025,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,992221490,61707291961.090004
+2025,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,3766165,5002747382.21
+2025,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,6019013,2653083374.32
+2025,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,153354,95335730.43
+2025,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,2344921668,98412856582.77
+2025,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,786463,2142752869.52
+2025,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,24660,6090208.93
+2025,S - Outras atividades de servicos,Demais,N,N,312410248,77085952122.64
+2025,S - Outras atividades de servicos,Demais,N,S,4153631,31215892311.38
+2025,S - Outras atividades de servicos,Microempresa,N,N,124885599,33847462293.96
+2025,S - Outras atividades de servicos,Microempresa,N,S,5868882,8311509396.62
+2025,S - Outras atividades de servicos,Microempresa,S,N,164793283,26366471442.85
+2025,S - Outras atividades de servicos,Microempresa,S,S,5911919,2403101425.85
+2025,S - Outras atividades de servicos,Não informado,N,N,1255,279192.43
+2025,S - Outras atividades de servicos,Pequeno Porte,N,N,12410854,5256654316.59
+2025,S - Outras atividades de servicos,Pequeno Porte,N,S,639170,2095355972.78
+2025,S - Outras atividades de servicos,Pequeno Porte,S,N,113648,29526519.5
+2025,S - Outras atividades de servicos,Pequeno Porte,S,S,8377,4689649.53
+2025,T - Servicos domesticos,Microempresa,N,N,315994,139372338.1
+2025,T - Servicos domesticos,Microempresa,N,S,9110,9559027.65
+2025,T - Servicos domesticos,Microempresa,S,N,2698340,724775036.99
+2025,T - Servicos domesticos,Microempresa,S,S,52392,18383109.0
+2025,T - Servicos domesticos,Pequeno Porte,N,N,3179,3943305.23
+2025,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,309458,189633059.62
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,N,3732978,66683313044.07
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Demais,N,S,197922,56603605229.83
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,N,4381107,16994764925.58
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,N,S,283528,1822802830.75
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,N,1975945,1122486092.24
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Microempresa,S,S,53886,33160138.89
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,N,1216468,11115812796.52
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Pequeno Porte,N,S,120239,1730144082.49
+2026,B - Industrias extrativas,Demais,N,N,1053301,102753683074.8
+2026,B - Industrias extrativas,Demais,N,S,63988,425652521490.13
+2026,B - Industrias extrativas,Microempresa,N,N,1069798,3251726105.72
+2026,B - Industrias extrativas,Microempresa,N,S,35562,504958737.99
+2026,B - Industrias extrativas,Microempresa,S,N,80,32338.62
+2026,B - Industrias extrativas,Pequeno Porte,N,N,669270,2559309219.16
+2026,B - Industrias extrativas,Pequeno Porte,N,S,19763,404725154.35
+2026,C - Industrias de transformacao,Demais,N,N,72131357,728438675131.54
+2026,C - Industrias de transformacao,Demais,N,S,3673082,1052128542770.69
+2026,C - Industrias de transformacao,Microempresa,N,N,341007400,170700573338.99
+2026,C - Industrias de transformacao,Microempresa,N,S,24376064,39721268160.33
+2026,C - Industrias de transformacao,Microempresa,S,N,112832993,26376535971.99
+2026,C - Industrias de transformacao,Microempresa,S,S,4185318,1422658539.58
+2026,C - Industrias de transformacao,Pequeno Porte,N,N,88922381,96181696399.96
+2026,C - Industrias de transformacao,Pequeno Porte,N,S,7015103,34563582120.41
+2026,C - Industrias de transformacao,Pequeno Porte,S,N,68629,31796660.26
+2026,C - Industrias de transformacao,Pequeno Porte,S,S,2486,3284607.86
+2026,D - Eletricidade e gas,Demais,N,N,320546556,111472365612.93001
+2026,D - Eletricidade e gas,Demais,N,S,87853,129441982654.68
+2026,D - Eletricidade e gas,Microempresa,N,N,95250,215572780.79
+2026,D - Eletricidade e gas,Microempresa,N,S,1269,8824732.99
+2026,D - Eletricidade e gas,Pequeno Porte,N,N,33013,135246836.1
+2026,D - Eletricidade e gas,Pequeno Porte,N,S,1152,22810270.06
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,N,158308536,34391484375.59
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Demais,N,S,138686,64429416812.31
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,N,3425665,8027869401.85
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,N,S,223399,1093871190.07
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,N,1480586,1094421717.8799999
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Microempresa,S,S,39532,30845309.97
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,N,1079639,3654852165.5299997
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Pequeno Porte,N,S,64769,966572018.9
+2026,F - Construcao,Demais,N,N,14604747,131893091410.79
+2026,F - Construcao,Demais,N,S,978947,137609914567.71
+2026,F - Construcao,Microempresa,N,N,51864138,107432283658.74
+2026,F - Construcao,Microempresa,N,S,3381030,19404622657.079998
+2026,F - Construcao,Microempresa,S,N,36237334,23880950411.24
+2026,F - Construcao,Microempresa,S,S,1173531,794570641.9300001
+2026,F - Construcao,Não informado,N,N,308,827699.68
+2026,F - Construcao,Pequeno Porte,N,N,7627480,47296581492.92
+2026,F - Construcao,Pequeno Porte,N,S,967305,16173926733.67
+2026,F - Construcao,Pequeno Porte,S,N,15491,34225447.11
+2026,F - Construcao,Pequeno Porte,S,S,822,3174163.54
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,N,3064869166,1504217253146.19
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,N,S,86971370,1666463261275.92
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Demais,S,N,321,5325196.46
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,N,4000964210,898507966737.22
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,N,S,281223406,236428861096.13
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,N,741854385,95046822746.35
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Microempresa,S,S,32692685,9288920275.26
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,N,N,17447,3463734.51
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,N,1593261182,429434804940.29
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,N,S,103745628,141843147310.56
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,N,850724,207337148.14
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Pequeno Porte,S,S,71642,41495817.72
+2026,"H - Transporte, armazenagem e correio",Demais,N,N,112902857,194916079603.18
+2026,"H - Transporte, armazenagem e correio",Demais,N,S,3970101,257848810438.26
+2026,"H - Transporte, armazenagem e correio",Microempresa,N,N,209645995,135823156617.48
+2026,"H - Transporte, armazenagem e correio",Microempresa,N,S,5419037,27106240704.27
+2026,"H - Transporte, armazenagem e correio",Microempresa,S,N,103976237,38171191218.45
+2026,"H - Transporte, armazenagem e correio",Microempresa,S,S,2523246,1569431469.39
+2026,"H - Transporte, armazenagem e correio",Não informado,N,N,185,1761512.04
+2026,"H - Transporte, armazenagem e correio",Pequeno Porte,N,N,26861478,65840123826.86
+2026,"H - Transporte, armazenagem e correio",Pequeno Porte,N,S,2134094,19719108940.13
+2026,"H - Transporte, armazenagem e correio",Pequeno Porte,S,N,21622,38420585.22
+2026,"H - Transporte, armazenagem e correio",Pequeno Porte,S,S,633,1706996.07
+2026,I - Alojamento e alimentacao,Demais,N,N,147168885,31094427557.61
+2026,I - Alojamento e alimentacao,Demais,N,S,5345602,28448062155.53
+2026,I - Alojamento e alimentacao,Microempresa,N,N,990211689,107886613432.23
+2026,I - Alojamento e alimentacao,Microempresa,N,S,75332793,39353060947.58
+2026,I - Alojamento e alimentacao,Microempresa,S,N,417221417,31108162766.989998
+2026,I - Alojamento e alimentacao,Microempresa,S,S,17795931,4028097508.06
+2026,I - Alojamento e alimentacao,Não informado,N,N,3017,334697.9
+2026,I - Alojamento e alimentacao,Pequeno Porte,N,N,190949615,29356814082.49
+2026,I - Alojamento e alimentacao,Pequeno Porte,N,S,17348326,15318848502.869999
+2026,I - Alojamento e alimentacao,Pequeno Porte,S,N,300014,25054210.47
+2026,I - Alojamento e alimentacao,Pequeno Porte,S,S,22793,7666064.0
+2026,J - Informação e comunicação,Demais,N,N,1246302750,204182624520.27
+2026,J - Informação e comunicação,Demais,N,S,3002794,317297603278.29
+2026,J - Informação e comunicação,Microempresa,N,N,712656112,77500964497.0
+2026,J - Informação e comunicação,Microempresa,N,S,2837830,13152878076.73
+2026,J - Informação e comunicação,Microempresa,S,N,12379779,5624812038.6
+2026,J - Informação e comunicação,Microempresa,S,S,278417,187984462.22
+2026,J - Informação e comunicação,Pequeno Porte,N,N,707422852,51532380140.14
+2026,J - Informação e comunicação,Pequeno Porte,N,S,847578,7071384549.68
+2026,J - Informação e comunicação,Pequeno Porte,S,N,36404,4956964.2299999995
+2026,J - Informação e comunicação,Pequeno Porte,S,S,34,19393.74
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,N,1542763929,1804217875553.91
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Demais,N,S,6016165,2576387173318.69
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,N,440758925,60825171894.36
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,N,S,672409,4402126620.74
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,N,40200,31269947.94
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Microempresa,S,S,1290,3207108.93
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,N,331401516,47835077585.8
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Pequeno Porte,N,S,257894,4521960984.79
+2026,L - Atividades imobiliarias,Demais,N,N,11996520,62594987730.729996
+2026,L - Atividades imobiliarias,Demais,N,S,714650,28853482506.73
+2026,L - Atividades imobiliarias,Microempresa,N,N,16680111,49634744395.82
+2026,L - Atividades imobiliarias,Microempresa,N,S,1100444,7912284524.84
+2026,L - Atividades imobiliarias,Microempresa,S,N,35434,46481676.66
+2026,L - Atividades imobiliarias,Microempresa,S,S,916,2359216.47
+2026,L - Atividades imobiliarias,Pequeno Porte,N,N,4655608,19614091947.44
+2026,L - Atividades imobiliarias,Pequeno Porte,N,S,270027,4874755351.89
+2026,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,N,3560162630,504096162377.83997
+2026,"M - Atividades profissionais, cientificas e tecnicas",Demais,N,S,3916369,364379358217.33
+2026,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,N,3636719816,337296996851.52
+2026,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,N,S,5738878,26566056200.079998
+2026,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,N,42620944,17409626027.170002
+2026,"M - Atividades profissionais, cientificas e tecnicas",Microempresa,S,S,1166003,750718653.6899999
+2026,"M - Atividades profissionais, cientificas e tecnicas",Não informado,N,N,551,2495243.24
+2026,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,N,723163163,103727084988.02
+2026,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,N,S,1638659,19907597654.43
+2026,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,N,79019,30099853.97
+2026,"M - Atividades profissionais, cientificas e tecnicas",Pequeno Porte,S,S,1979,2995762.82
+2026,N - Atividades administrativas e servicos complementares,Demais,N,N,1998651064,546015344919.27
+2026,N - Atividades administrativas e servicos complementares,Demais,N,S,7893084,489875005377.39
+2026,N - Atividades administrativas e servicos complementares,Microempresa,N,N,340360279,227275416172.79
+2026,N - Atividades administrativas e servicos complementares,Microempresa,N,S,7918644,43279285975.05
+2026,N - Atividades administrativas e servicos complementares,Microempresa,S,N,61059247,25780421486.08
+2026,N - Atividades administrativas e servicos complementares,Microempresa,S,S,1490779,994081225.49
+2026,N - Atividades administrativas e servicos complementares,Não informado,N,N,1485,1351939.95
+2026,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,N,288756892,81375203952.1
+2026,N - Atividades administrativas e servicos complementares,Pequeno Porte,N,S,1929500,22318706644.22
+2026,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,N,31057,26361222.16
+2026,N - Atividades administrativas e servicos complementares,Pequeno Porte,S,S,1136,1611587.07
+2026,"O - Administracao publica, defesa e seguridade social",Demais,N,N,269934175,282255416483.38
+2026,"O - Administracao publica, defesa e seguridade social",Demais,N,S,611857,31725969407.42
+2026,"O - Administracao publica, defesa e seguridade social",Microempresa,N,N,4229,6980924.89
+2026,"O - Administracao publica, defesa e seguridade social",Pequeno Porte,N,N,255,1118389.32
+2026,Outros,Outros,Outros,Outros,5263346,4128381200.63
+2026,P - Educacao,Demais,N,N,59185819,36886894351.36
+2026,P - Educacao,Demais,N,S,1207864,28905638431.84
+2026,P - Educacao,Microempresa,N,N,103354901,47451928243.61
+2026,P - Educacao,Microempresa,N,S,3010401,9755190300.0
+2026,P - Educacao,Microempresa,S,N,25188671,10525101829.24
+2026,P - Educacao,Microempresa,S,S,726515,534898227.93
+2026,P - Educacao,Pequeno Porte,N,N,36604722,14676873574.89
+2026,P - Educacao,Pequeno Porte,N,S,736910,4424017274.25
+2026,P - Educacao,Pequeno Porte,S,N,5403,3990385.87
+2026,Pessoa fisica,Não informado,N,N,30796,451876334.17999995
+2026,Pessoa fisica,Não informado,N,S,11,6749.28
+2026,Q - Saude humana e servicos sociais,Demais,N,N,43656181,90743452249.51
+2026,Q - Saude humana e servicos sociais,Demais,N,S,2809391,77030287061.12
+2026,Q - Saude humana e servicos sociais,Microempresa,N,N,95517060,78478598021.8
+2026,Q - Saude humana e servicos sociais,Microempresa,N,S,4661213,13819381585.27
+2026,Q - Saude humana e servicos sociais,Microempresa,S,N,2302447,954448005.45
+2026,Q - Saude humana e servicos sociais,Microempresa,S,S,47458,23286948.01
+2026,Q - Saude humana e servicos sociais,Pequeno Porte,N,N,25018410,30087064708.38
+2026,Q - Saude humana e servicos sociais,Pequeno Porte,N,S,1435198,8549462044.0
+2026,Q - Saude humana e servicos sociais,Pequeno Porte,S,N,1538,1005320.22
+2026,"R - Artes, cultura, esporte e recreacao",Demais,N,N,3480301029,257752785740.19
+2026,"R - Artes, cultura, esporte e recreacao",Demais,N,S,1553949,60950459469.45
+2026,"R - Artes, cultura, esporte e recreacao",Microempresa,N,N,274671759,29747874477.58
+2026,"R - Artes, cultura, esporte e recreacao",Microempresa,N,S,4383693,4875360948.4
+2026,"R - Artes, cultura, esporte e recreacao",Microempresa,S,N,6027356,2835564335.46
+2026,"R - Artes, cultura, esporte e recreacao",Microempresa,S,S,157753,91748253.89
+2026,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,N,480656992,26066576806.93
+2026,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,N,S,844622,1811409791.1
+2026,"R - Artes, cultura, esporte e recreacao",Pequeno Porte,S,N,3530,1270357.77
+2026,S - Outras atividades de servicos,Demais,N,N,317441378,84100621008.4
+2026,S - Outras atividades de servicos,Demais,N,S,4381666,30992879739.14
+2026,S - Outras atividades de servicos,Microempresa,N,N,115137473,33192837499.58
+2026,S - Outras atividades de servicos,Microempresa,N,S,6130873,8267163050.73
+2026,S - Outras atividades de servicos,Microempresa,S,N,177463190,29322969057.55
+2026,S - Outras atividades de servicos,Microempresa,S,S,5809271,2327832896.68
+2026,S - Outras atividades de servicos,Não informado,N,N,7471,1459356.79
+2026,S - Outras atividades de servicos,Pequeno Porte,N,N,147518326,8860479133.6
+2026,S - Outras atividades de servicos,Pequeno Porte,N,S,740158,2032609016.91
+2026,S - Outras atividades de servicos,Pequeno Porte,S,N,32308,9137348.65
+2026,S - Outras atividades de servicos,Pequeno Porte,S,S,1330,1599153.41
+2026,T - Servicos domesticos,Microempresa,N,N,334780,132071223.71
+2026,T - Servicos domesticos,Microempresa,N,S,8675,9164907.68
+2026,T - Servicos domesticos,Microempresa,S,N,3386957,945457851.71
+2026,T - Servicos domesticos,Microempresa,S,S,60024,19378916.36
+2026,T - Servicos domesticos,Pequeno Porte,N,N,2913,5729312.22
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,N,281236,181679217.11
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,Demais,N,S,102,3137107.17

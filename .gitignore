@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.duckdb
+~$*
+# Tabelas grandes: são recriadas com `python src/coleta.py`
+data/raw/pix_transacoes.csv
+data/raw/pix_municipios.csv
+data/raw/pix_chaves.csv
+_to_delete/

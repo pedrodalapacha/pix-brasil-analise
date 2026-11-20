@@ -1,0 +1,770 @@
+﻿Ano,Setor,FormaIniciacao,Quantidade,PartNoSetor
+2020,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,64405,1.0
+2020,B - Industrias extrativas,Não informado,7193,1.0
+2020,C - Industrias de transformacao,Não informado,987816,1.0
+2020,D - Eletricidade e gas,Não informado,10435,1.0
+2020,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,23351,1.0
+2020,F - Construcao,Não informado,317165,1.0
+2020,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,4655262,1.0
+2020,"H - Transporte, armazenagem e correio",Não informado,372218,1.0
+2020,I - Alojamento e alimentacao,Não informado,732692,1.0
+2020,J - Informação e comunicação,Não informado,474486,1.0
+2020,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,472615,1.0
+2020,L - Atividades imobiliarias,Não informado,118834,1.0
+2020,"M - Atividades profissionais, cientificas e tecnicas",Não informado,1056402,1.0
+2020,N - Atividades administrativas e servicos complementares,Não informado,778868,1.0
+2020,"O - Administracao publica, defesa e seguridade social",Não informado,15474,1.0
+2020,P - Educacao,Não informado,297552,1.0
+2020,Pessoa fisica,Não informado,3449,1.0
+2020,Q - Saude humana e servicos sociais,Não informado,246721,1.0
+2020,"R - Artes, cultura, esporte e recreacao",Não informado,136498,1.0
+2020,S - Outras atividades de servicos,Não informado,908016,1.0
+2020,T - Servicos domesticos,Não informado,3983,1.0
+2020,U - Organismos internacionais e outras instituicoes extraterritoriais,Não informado,308,1.0
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",DICT,733899,0.5373640205046498
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",MANU,193835,0.14192682496435996
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,386469,0.28297427253669993
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRDN,28334,0.020746277290170378
+2021,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRES,23202,0.016988604704119895
+2021,B - Industrias extrativas,DICT,384461,0.5743744733744076
+2021,B - Industrias extrativas,MANU,93702,0.1399882872492366
+2021,B - Industrias extrativas,Não informado,189104,0.28251632912829644
+2021,B - Industrias extrativas,QRDN,473,0.0007066493764155397
+2021,B - Industrias extrativas,QRES,1616,0.002414260871643789
+2021,C - Industrias de transformacao,DICT,38281444,0.5518796379189116
+2021,C - Industrias de transformacao,MANU,6817164,0.09827879010921946
+2021,C - Industrias de transformacao,Não informado,19793549,0.2853512175572644
+2021,C - Industrias de transformacao,QRDN,2254575,0.032502797821864556
+2021,C - Industrias de transformacao,QRES,2218835,0.031987556592740024
+2021,D - Eletricidade e gas,DICT,26413,0.0028810610350156955
+2021,D - Eletricidade e gas,MANU,72678,0.007927526365913404
+2021,D - Eletricidade e gas,Não informado,1473341,0.16070818711964033
+2021,D - Eletricidade e gas,QRDN,517298,0.05642551437896299
+2021,D - Eletricidade e gas,QRES,7078073,0.7720577111004676
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",DICT,879838,0.36969924891013184
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",MANU,142718,0.05996869583486528
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,572976,0.24075886338568203
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRDN,11220,0.004714533326330164
+2021,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRES,773123,0.32485865854299073
+2021,F - Construcao,DICT,9395125,0.5744031040709812
+2021,F - Construcao,MANU,1705806,0.10429028473201839
+2021,F - Construcao,Não informado,4993252,0.30527954106077726
+2021,F - Construcao,QRDN,136915,0.008370766859821278
+2021,F - Construcao,QRES,125229,0.007656303276401847
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",DICT,261123081,0.5199736079867688
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",MANU,40052307,0.07975603879682976
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,116269037,0.23152618464254843
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRDN,62577958,0.12461130007004048
+2021,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRES,22162876,0.044132868503812456
+2021,"H - Transporte, armazenagem e correio",DICT,14096398,0.558139411496302
+2021,"H - Transporte, armazenagem e correio",MANU,3076253,0.12180260794521645
+2021,"H - Transporte, armazenagem e correio",Não informado,6665307,0.263909299838312
+2021,"H - Transporte, armazenagem e correio",QRDN,990994,0.03923788246872472
+2021,"H - Transporte, armazenagem e correio",QRES,427100,0.016910798251444842
+2021,I - Alojamento e alimentacao,DICT,65551000,0.5926940340355799
+2021,I - Alojamento e alimentacao,MANU,9857890,0.08913231821297925
+2021,I - Alojamento e alimentacao,Não informado,22832383,0.20644409981412024
+2021,I - Alojamento e alimentacao,QRDN,7483611,0.0676647433714671
+2021,I - Alojamento e alimentacao,QRES,4873496,0.044064804565853495
+2021,J - Informação e comunicação,DICT,7941977,0.13736715760029847
+2021,J - Informação e comunicação,MANU,1544118,0.026707594426357274
+2021,J - Informação e comunicação,Não informado,13602965,0.23528154727548872
+2021,J - Informação e comunicação,QRDN,29935763,0.5177792222145926
+2021,J - Informação e comunicação,QRES,4790867,0.08286447848326293
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",DICT,9892269,0.14136964568988433
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",MANU,4333699,0.06193255482201364
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,15180658,0.21694560093334583
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",QRDN,35976103,0.514131685502364
+2021,"K - Atividades financeiras, de seguros e servicos relacionados",QRES,4591762,0.0656205130523922
+2021,L - Atividades imobiliarias,DICT,2984522,0.49100106721408754
+2021,L - Atividades imobiliarias,MANU,890956,0.1465763518716882
+2021,L - Atividades imobiliarias,Não informado,1987963,0.327051351801769
+2021,L - Atividades imobiliarias,QRDN,146145,0.024043163685173983
+2021,L - Atividades imobiliarias,QRES,68857,0.011328065427281295
+2021,"M - Atividades profissionais, cientificas e tecnicas",DICT,19143797,0.12006034388183302
+2021,"M - Atividades profissionais, cientificas e tecnicas",MANU,4017312,0.02519457661406535
+2021,"M - Atividades profissionais, cientificas e tecnicas",Não informado,29414502,0.18447308155392922
+2021,"M - Atividades profissionais, cientificas e tecnicas",QRDN,93444507,0.586037328137587
+2021,"M - Atividades profissionais, cientificas e tecnicas",QRES,13431341,0.08423466981258541
+2021,N - Atividades administrativas e servicos complementares,DICT,24953689,0.16783755457487298
+2021,N - Atividades administrativas e servicos complementares,MANU,4484855,0.030164962616264553
+2021,N - Atividades administrativas e servicos complementares,Não informado,29531136,0.19862528742976623
+2021,N - Atividades administrativas e servicos complementares,QRDN,55116870,0.370713952418866
+2021,N - Atividades administrativas e servicos complementares,QRES,34591075,0.23265824296023022
+2021,"O - Administracao publica, defesa e seguridade social",DICT,270656,0.029472825437734988
+2021,"O - Administracao publica, defesa e seguridade social",MANU,69523,0.007570640380806816
+2021,"O - Administracao publica, defesa e seguridade social",Não informado,1333217,0.14517938605322153
+2021,"O - Administracao publica, defesa e seguridade social",QRDN,7493676,0.8160166581747464
+2021,"O - Administracao publica, defesa e seguridade social",QRES,16167,0.0017604899534902664
+2021,P - Educacao,DICT,12327532,0.5244414388789392
+2021,P - Educacao,MANU,2116081,0.09002293114504871
+2021,P - Educacao,Não informado,6814579,0.28990779469193045
+2021,P - Educacao,QRDN,1307533,0.05562544781077802
+2021,P - Educacao,QRES,940297,0.04000238747330365
+2021,Pessoa fisica,DICT,4917,0.21643630601285324
+2021,Pessoa fisica,MANU,2745,0.12082929835372833
+2021,Pessoa fisica,Não informado,15056,0.6627343956334184
+2021,Q - Saude humana e servicos sociais,DICT,12020067,0.5834307654044764
+2021,Q - Saude humana e servicos sociais,MANU,2059340,0.09995637398926766
+2021,Q - Saude humana e servicos sociais,Não informado,5828788,0.2829180772636648
+2021,Q - Saude humana e servicos sociais,QRDN,214251,0.010399328466195278
+2021,Q - Saude humana e servicos sociais,QRES,479942,0.023295454876395883
+2021,"R - Artes, cultura, esporte e recreacao",DICT,7081946,0.5516698617854703
+2021,"R - Artes, cultura, esporte e recreacao",MANU,1163765,0.09065503700547389
+2021,"R - Artes, cultura, esporte e recreacao",Não informado,3109886,0.24225408945345941
+2021,"R - Artes, cultura, esporte e recreacao",QRDN,776240,0.06046759090119488
+2021,"R - Artes, cultura, esporte e recreacao",QRES,705453,0.05495342085440151
+2021,S - Outras atividades de servicos,DICT,37847134,0.5617710644738035
+2021,S - Outras atividades de servicos,MANU,8189958,0.12156485676447107
+2021,S - Outras atividades de servicos,Não informado,18159449,0.2695436065248097
+2021,S - Outras atividades de servicos,QRDN,1044886,0.015509410051333734
+2021,S - Outras atividades de servicos,QRES,2129672,0.03161106218558198
+2021,T - Servicos domesticos,DICT,185215,0.6222576852007391
+2021,T - Servicos domesticos,MANU,28603,0.09609608600705527
+2021,T - Servicos domesticos,Não informado,72048,0.24205610616495885
+2021,T - Servicos domesticos,QRDN,5984,0.020104149168486476
+2021,T - Servicos domesticos,QRES,5800,0.01948597345876029
+2021,U - Organismos internacionais e outras instituicoes extraterritoriais,DICT,56526,0.8470471880478924
+2021,U - Organismos internacionais e outras instituicoes extraterritoriais,MANU,3820,0.05724304317204382
+2021,U - Organismos internacionais e outras instituicoes extraterritoriais,Não informado,6387,0.09570976878006383
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",DICT,2372914,0.6942283049449103
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",MANU,574666,0.16812636407786874
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,10651,0.0031160950948783813
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRDN,313935,0.09184595940387237
+2022,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRES,145894,0.04268327647847024
+2022,B - Industrias extrativas,DICT,1169518,0.8182813627131119
+2022,B - Industrias extrativas,MANU,232993,0.16301914937830464
+2022,B - Industrias extrativas,Não informado,1472,0.001029920160197364
+2022,B - Industrias extrativas,QRDN,8256,0.005776508724585216
+2022,B - Industrias extrativas,QRES,16998,0.011893059023800811
+2022,C - Industrias de transformacao,DICT,113227517,0.6466314735637574
+2022,C - Industrias de transformacao,MANU,19964798,0.1140170436674219
+2022,C - Industrias de transformacao,Não informado,296684,0.0016943338261386565
+2022,C - Industrias de transformacao,QRDN,25466306,0.14543562741030128
+2022,C - Industrias de transformacao,QRES,16148323,0.09222152153238082
+2022,D - Eletricidade e gas,DICT,84253,0.0018817114544575598
+2022,D - Eletricidade e gas,MANU,176751,0.0039475672235627
+2022,D - Eletricidade e gas,QRDN,2602989,0.05813530933173928
+2022,D - Eletricidade e gas,QRES,41910672,0.9360354119902404
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",DICT,2583470,0.23041055025906884
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",MANU,383726,0.03422316450692729
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,8332,0.0007431016054990232
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRDN,296124,0.026410252019538255
+2022,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRES,7940812,0.7082129316089666
+2022,F - Construcao,DICT,28159573,0.7934085514453371
+2022,F - Construcao,MANU,4800634,0.13526000795392865
+2022,F - Construcao,Não informado,213490,0.006015176140918933
+2022,F - Construcao,QRDN,1275849,0.03594761564576927
+2022,F - Construcao,QRES,1042349,0.029368648814046137
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",DICT,851909699,0.4832851883083129
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",INIC,65,3.687425706845995e-08
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",MANU,145958961,0.08280197306706646
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,1342125,0.000761382496430874
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRDN,582393126,0.3303894437388921
+2022,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRES,181143403,0.1027619755150406
+2022,"H - Transporte, armazenagem e correio",DICT,49244356,0.6636332702057041
+2022,"H - Transporte, armazenagem e correio",MANU,9533367,0.12847481482509676
+2022,"H - Transporte, armazenagem e correio",Não informado,169380,0.0022826210440733993
+2022,"H - Transporte, armazenagem e correio",QRDN,11573510,0.15596845837639584
+2022,"H - Transporte, armazenagem e correio",QRES,3683557,0.049640835548729945
+2022,I - Alojamento e alimentacao,DICT,222711266,0.5521317745887381
+2022,I - Alojamento e alimentacao,MANU,36240324,0.08984473377198095
+2022,I - Alojamento e alimentacao,Não informado,388778,0.0009638339852150111
+2022,I - Alojamento e alimentacao,QRDN,97319619,0.2412686834655678
+2022,I - Alojamento e alimentacao,QRES,46706159,0.11579097418849821
+2022,J - Informação e comunicação,DICT,25288975,0.07464314885768582
+2022,J - Informação e comunicação,MANU,4991176,0.01473199657727958
+2022,J - Informação e comunicação,Não informado,100279,0.0002959843301003649
+2022,J - Informação e comunicação,QRDN,248713889,0.734105982531951
+2022,J - Informação e comunicação,QRES,59704022,0.17622288770298317
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",DICT,19873623,0.05532516236951481
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",MANU,11414095,0.031775115145138214
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,96038,0.00026735527506199867
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",QRDN,310447399,0.8642386321240244
+2022,"K - Atividades financeiras, de seguros e servicos relacionados",QRES,17383751,0.04839373508626059
+2022,L - Atividades imobiliarias,DICT,8622547,0.6506524901536761
+2022,L - Atividades imobiliarias,MANU,2497901,0.18849018808565007
+2022,L - Atividades imobiliarias,Não informado,27982,0.0021115057974726223
+2022,L - Atividades imobiliarias,QRDN,1607617,0.12130986404172484
+2022,L - Atividades imobiliarias,QRES,496107,0.037435951921476314
+2022,"M - Atividades profissionais, cientificas e tecnicas",DICT,57023125,0.10621248546887659
+2022,"M - Atividades profissionais, cientificas e tecnicas",MANU,10559663,0.01966865290079654
+2022,"M - Atividades profissionais, cientificas e tecnicas",Não informado,293524,0.000546724045459917
+2022,"M - Atividades profissionais, cientificas e tecnicas",QRDN,441996918,0.8232728604467614
+2022,"M - Atividades profissionais, cientificas e tecnicas",QRES,27004565,0.050299277138105516
+2022,N - Atividades administrativas e servicos complementares,DICT,77149641,0.11776361971449038
+2022,N - Atividades administrativas e servicos complementares,MANU,13823948,0.02110130564606114
+2022,N - Atividades administrativas e servicos complementares,Não informado,248248,0.00037893349454319315
+2022,N - Atividades administrativas e servicos complementares,QRDN,404962682,0.6181476759121679
+2022,N - Atividades administrativas e servicos complementares,QRES,158938355,0.24260846523273738
+2022,"O - Administracao publica, defesa e seguridade social",DICT,716377,0.01671995487054339
+2022,"O - Administracao publica, defesa e seguridade social",MANU,258579,0.006035131237421412
+2022,"O - Administracao publica, defesa e seguridade social",Não informado,1582,3.69232521496358e-05
+2022,"O - Administracao publica, defesa e seguridade social",QRDN,41639255,0.9718436862755898
+2022,"O - Administracao publica, defesa e seguridade social",QRES,229837,0.005364304364295728
+2022,P - Educacao,DICT,39191080,0.5617581769504401
+2022,P - Educacao,MANU,6666258,0.0955529916797722
+2022,P - Educacao,Não informado,94933,0.0013607532380438643
+2022,P - Educacao,QRDN,17670089,0.2532800061440518
+2022,P - Educacao,QRES,6142677,0.08804807198769206
+2022,Pessoa fisica,DICT,5648,0.15771249860381995
+2022,Pessoa fisica,MANU,7219,0.20158047581816152
+2022,Pessoa fisica,QRDN,21449,0.5989333184407462
+2022,Pessoa fisica,QRES,1496,0.04177370713727242
+2022,Q - Saude humana e servicos sociais,DICT,38902528,0.7499039934669679
+2022,Q - Saude humana e servicos sociais,MANU,6250679,0.12049111934268421
+2022,Q - Saude humana e servicos sociais,Não informado,87362,0.0016840322736162868
+2022,Q - Saude humana e servicos sociais,QRDN,2412938,0.04651296291562848
+2022,Q - Saude humana e servicos sociais,QRES,4223171,0.08140789200110307
+2022,"R - Artes, cultura, esporte e recreacao",DICT,22821041,0.3335927549180687
+2022,"R - Artes, cultura, esporte e recreacao",MANU,4157029,0.06076649861784588
+2022,"R - Artes, cultura, esporte e recreacao",Não informado,46982,0.0006867721245301958
+2022,"R - Artes, cultura, esporte e recreacao",QRDN,34575660,0.5054190855058046
+2022,"R - Artes, cultura, esporte e recreacao",QRES,6809170,0.09953488883375065
+2022,S - Outras atividades de servicos,DICT,120960096,0.6982768421985818
+2022,S - Outras atividades de servicos,MANU,26954369,0.15560182482639023
+2022,S - Outras atividades de servicos,Não informado,306037,0.0017666863455194958
+2022,S - Outras atividades de servicos,QRDN,8629434,0.049815882450036056
+2022,S - Outras atividades de servicos,QRES,16376625,0.09453876417947245
+2022,T - Servicos domesticos,DICT,731644,0.797626017004678
+2022,T - Servicos domesticos,MANU,119278,0.13003487496143476
+2022,T - Servicos domesticos,Não informado,3023,0.003295623895508118
+2022,T - Servicos domesticos,QRDN,21283,0.023202369622262412
+2022,T - Servicos domesticos,QRES,42049,0.04584111451611672
+2022,U - Organismos internacionais e outras instituicoes extraterritoriais,DICT,111359,0.8468236224544113
+2022,U - Organismos internacionais e outras instituicoes extraterritoriais,MANU,9968,0.07580112849994677
+2022,U - Organismos internacionais e outras instituicoes extraterritoriais,QRES,10175,0.07737524904564189
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",DICT,3385721,0.6321601868331057
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",MANU,755452,0.14105316931414116
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,23680,0.0044213782601129695
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRDN,797807,0.14896142422153494
+2023,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRES,393136,0.07340384137110524
+2023,B - Industrias extrativas,DICT,1563373,0.7926452164398897
+2023,B - Industrias extrativas,MANU,289720,0.1468908392987245
+2023,B - Industrias extrativas,Não informado,3217,0.0016310500829214301
+2023,B - Industrias extrativas,QRDN,58523,0.029671726454091035
+2023,B - Industrias extrativas,QRES,57516,0.029161167724373323
+2023,C - Industrias de transformacao,DICT,142542398,0.4765883266691944
+2023,C - Industrias de transformacao,MANU,24955005,0.0834366773805179
+2023,C - Industrias de transformacao,Não informado,624827,0.0020890995140107906
+2023,C - Industrias de transformacao,QRDN,92562615,0.3094816869502565
+2023,C - Industrias de transformacao,QRES,38404306,0.12840420948602044
+2023,D - Eletricidade e gas,DICT,117386,0.0010788789992617438
+2023,D - Eletricidade e gas,MANU,241730,0.002221708044328466
+2023,D - Eletricidade e gas,Não informado,194,1.783028008934441e-06
+2023,D - Eletricidade e gas,QRDN,8388417,0.07709681681248358
+2023,D - Eletricidade e gas,QRES,100055948,0.9196008131159172
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",DICT,3431255,0.0784097455042174
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",MANU,486313,0.011113041311529594
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,16717,0.00038201058084986464
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRDN,1007368,0.023019993707577104
+2023,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRES,38818915,0.887075208895826
+2023,F - Construcao,DICT,39514224,0.7492323180592046
+2023,F - Construcao,MANU,6348444,0.12037334743531973
+2023,F - Construcao,Não informado,477688,0.009057479846980302
+2023,F - Construcao,QRDN,3680321,0.06978285677663745
+2023,F - Construcao,QRES,2718938,0.051553997881857876
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",DICT,1083401470,0.30411172939518644
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",INIC,3320,9.319268706475162e-07
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",MANU,197218533,0.05535941273866985
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,2697235,0.0007571161966719739
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRDN,1817139878,0.5100727349498041
+2023,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRES,462050856,0.12969807479279705
+2023,"H - Transporte, armazenagem e correio",DICT,71671918,0.5258627293028845
+2023,"H - Transporte, armazenagem e correio",MANU,14858867,0.10902072349966362
+2023,"H - Transporte, armazenagem e correio",Não informado,406016,0.0029789726277541497
+2023,"H - Transporte, armazenagem e correio",QRDN,37660825,0.27632055587375665
+2023,"H - Transporte, armazenagem e correio",QRES,11696342,0.08581701869594112
+2023,I - Alojamento e alimentacao,DICT,271296082,0.34979677455124025
+2023,I - Alojamento e alimentacao,MANU,47040962,0.06065246743735672
+2023,I - Alojamento e alimentacao,Não informado,828286,0.0010679541299308132
+2023,I - Alojamento e alimentacao,QRDN,340764762,0.4393665170156089
+2023,I - Alojamento e alimentacao,QRES,115651908,0.1491162868658633
+2023,J - Informação e comunicação,DICT,33556249,0.03505815036349383
+2023,J - Informação e comunicação,INIC,177,1.8492211731824997e-07
+2023,J - Informação e comunicação,MANU,6640330,0.006937536063796016
+2023,J - Informação e comunicação,Não informado,197642,0.00020648800627691278
+2023,J - Informação e comunicação,QRDN,708706532,0.7404266240379326
+2023,J - Informação e comunicação,QRES,208058779,0.2173710166063833
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",DICT,13713869,0.008046226155158862
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",MANU,14007668,0.00821860443864396
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,155724,9.13666684278491e-05
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",QRDN,1589368822,0.9325173651411158
+2023,"K - Atividades financeiras, de seguros e servicos relacionados",QRES,87139145,0.05112643759665347
+2023,L - Atividades imobiliarias,DICT,11158527,0.5586898275838847
+2023,L - Atividades imobiliarias,MANU,3286797,0.16456473593989868
+2023,L - Atividades imobiliarias,Não informado,59539,0.0029810237179617805
+2023,L - Atividades imobiliarias,QRDN,4707885,0.23571636820296776
+2023,L - Atividades imobiliarias,QRES,759921,0.03804804455528703
+2023,"M - Atividades profissionais, cientificas e tecnicas",DICT,81075698,0.03780194479402647
+2023,"M - Atividades profissionais, cientificas e tecnicas",INIC,98,4.569298422586006e-08
+2023,"M - Atividades profissionais, cientificas e tecnicas",MANU,14498936,0.006760200550405659
+2023,"M - Atividades profissionais, cientificas e tecnicas",Não informado,588254,0.00027427633411019475
+2023,"M - Atividades profissionais, cientificas e tecnicas",QRDN,1882336761,0.8776488155931583
+2023,"M - Atividades profissionais, cientificas e tecnicas",QRES,166249642,0.07751471703531512
+2023,N - Atividades administrativas e servicos complementares,DICT,104138968,0.062152345264552725
+2023,N - Atividades administrativas e servicos complementares,MANU,19140143,0.011423243373689973
+2023,N - Atividades administrativas e servicos complementares,Não informado,536153,0.0003199874841339482
+2023,N - Atividades administrativas e servicos complementares,QRDN,1193524826,0.7123209351120823
+2023,N - Atividades administrativas e servicos complementares,QRES,358203569,0.213783488765541
+2023,"O - Administracao publica, defesa e seguridade social",DICT,1097114,0.012170065751904123
+2023,"O - Administracao publica, defesa e seguridade social",MANU,360179,0.003995393470920137
+2023,"O - Administracao publica, defesa e seguridade social",Não informado,2474,2.7443586236444708e-05
+2023,"O - Administracao publica, defesa e seguridade social",QRDN,87634542,0.9721124133663444
+2023,"O - Administracao publica, defesa e seguridade social",QRES,1054259,0.011694683824594973
+2023,P - Educacao,DICT,53229796,0.4972025918710941
+2023,P - Educacao,MANU,8774050,0.08195560999720107
+2023,P - Educacao,Não informado,209526,0.0019571157151228396
+2023,P - Educacao,QRDN,32976239,0.3080205586540414
+2023,P - Educacao,QRES,11868954,0.11086412376254062
+2023,Pessoa fisica,DICT,6633,0.48345481049562683
+2023,Pessoa fisica,MANU,7087,0.5165451895043732
+2023,Q - Saude humana e servicos sociais,DICT,54885884,0.6482764710459599
+2023,Q - Saude humana e servicos sociais,MANU,8395089,0.0991573474709227
+2023,Q - Saude humana e servicos sociais,Não informado,196032,0.0023154028670118827
+2023,Q - Saude humana e servicos sociais,QRDN,8901387,0.10513741113788719
+2023,Q - Saude humana e servicos sociais,QRES,12285924,0.14511336747821832
+2023,"R - Artes, cultura, esporte e recreacao",DICT,30150201,0.1300798372514054
+2023,"R - Artes, cultura, esporte e recreacao",MANU,5066531,0.021859009427804485
+2023,"R - Artes, cultura, esporte e recreacao",Não informado,102779,0.00044342907010345284
+2023,"R - Artes, cultura, esporte e recreacao",QRDN,178442228,0.769870024316527
+2023,"R - Artes, cultura, esporte e recreacao",QRES,18020539,0.07774769993415977
+2023,S - Outras atividades de servicos,DICT,171605672,0.5926788702350263
+2023,S - Outras atividades de servicos,MANU,37405807,0.12918938619342044
+2023,S - Outras atividades de servicos,Não informado,673359,0.002325597089719663
+2023,S - Outras atividades de servicos,QRDN,27422457,0.09470963660122253
+2023,S - Outras atividades de servicos,QRES,52435121,0.18109650988061107
+2023,T - Servicos domesticos,DICT,1134935,0.7331839318222635
+2023,T - Servicos domesticos,MANU,182970,0.11820118685697378
+2023,T - Servicos domesticos,Não informado,9058,0.005851595073238611
+2023,T - Servicos domesticos,QRDN,108736,0.07024498144001695
+2023,T - Servicos domesticos,QRES,112255,0.0725183048075072
+2023,U - Organismos internacionais e outras instituicoes extraterritoriais,DICT,230847,0.8116583571835423
+2023,U - Organismos internacionais e outras instituicoes extraterritoriais,MANU,14742,0.0518328914891672
+2023,U - Organismos internacionais e outras instituicoes extraterritoriais,QRES,38825,0.1365087513272905
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",DICT,4252023,0.5558858343223394
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",MANU,986951,0.12902848363479388
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,38633,0.005050663516489666
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRDN,1633650,0.21357431350693298
+2024,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRES,737837,0.09646070501944413
+2024,B - Industrias extrativas,DICT,1907802,0.7838176621321313
+2024,B - Industrias extrativas,MANU,361934,0.14870005468394037
+2024,B - Industrias extrativas,Não informado,5203,0.002137644942228533
+2024,B - Industrias extrativas,QRDN,52043,0.021381790453276865
+2024,B - Industrias extrativas,QRES,107005,0.04396284778842286
+2024,C - Industrias de transformacao,DICT,157649549,0.35709276370113247
+2024,C - Industrias de transformacao,INIC,164,3.7147720128895343e-07
+2024,C - Industrias de transformacao,MANU,30591261,0.06929241475719457
+2024,C - Industrias de transformacao,Não informado,1003881,0.0022738957579704626
+2024,C - Industrias de transformacao,QRDN,191032881,0.43270951212222974
+2024,C - Industrias de transformacao,QRES,61202924,0.13863104218427144
+2024,D - Eletricidade e gas,DICT,153556,0.0006851991966914458
+2024,D - Eletricidade e gas,MANU,363269,0.0016209827488532186
+2024,D - Eletricidade e gas,Não informado,784,3.4983730378890667e-06
+2024,D - Eletricidade e gas,QRDN,31812472,0.14195394682831744
+2024,D - Eletricidade e gas,QRES,191774093,0.8557363728531
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",DICT,4056650,0.0381906242222296
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",MANU,596794,0.005618413072875721
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,25899,0.00024382162048279356
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRDN,2436775,0.02294059343032392
+2024,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRES,99104979,0.933006547654088
+2024,F - Construcao,DICT,48574602,0.6891902947250141
+2024,F - Construcao,MANU,8028054,0.11390431778171499
+2024,F - Construcao,Não informado,752812,0.01068111117312968
+2024,F - Construcao,QRDN,7815401,0.11088713642129626
+2024,F - Construcao,QRES,5309813,0.07533713989884491
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",DICT,1142512614,0.19495266219399518
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",INIC,15485,2.6422832772978167e-06
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",MANU,253129170,0.043192700864531884
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,4175647,0.0007125116073618855
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRDN,3733580450,0.6370795729726224
+2024,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRES,727048354,0.12405991007821138
+2024,"H - Transporte, armazenagem e correio",DICT,85563607,0.4036096131436166
+2024,"H - Transporte, armazenagem e correio",MANU,21308757,0.10051492066412454
+2024,"H - Transporte, armazenagem e correio",Não informado,616629,0.0029086828018264252
+2024,"H - Transporte, armazenagem e correio",QRDN,82992847,0.391483155582225
+2024,"H - Transporte, armazenagem e correio",QRES,21514119,0.10148362780820742
+2024,I - Alojamento e alimentacao,DICT,269314717,0.22243986944271232
+2024,I - Alojamento e alimentacao,INIC,53,4.377522777733589e-08
+2024,I - Alojamento e alimentacao,MANU,57491956,0.04748534847669005
+2024,I - Alojamento e alimentacao,Não informado,1245907,0.0010290540134788155
+2024,I - Alojamento e alimentacao,QRDN,706445629,0.5834871381467608
+2024,I - Alojamento e alimentacao,QRES,176232160,0.14555854614513022
+2024,J - Informação e comunicação,DICT,37981708,0.019684994953446198
+2024,J - Informação e comunicação,INIC,1609,8.339055442186785e-07
+2024,J - Informação e comunicação,MANU,8279999,0.004291321983980804
+2024,J - Informação e comunicação,Não informado,359583,0.00018636311827643573
+2024,J - Informação e comunicação,QRDN,1580948960,0.8193673728220968
+2024,J - Informação e comunicação,QRES,301903261,0.15646911321665552
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",DICT,16746878,0.005373300195620963
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",MANU,19354155,0.006209855045673495
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,363126,0.00011651037326688938
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",QRDN,2932663618,0.9409563975022618
+2024,"K - Atividades financeiras, de seguros e servicos relacionados",QRES,147556084,0.047343936883176875
+2024,L - Atividades imobiliarias,DICT,13309612,0.4783400863553017
+2024,L - Atividades imobiliarias,MANU,4401495,0.15818729339310783
+2024,L - Atividades imobiliarias,Não informado,98788,0.0035503860255931986
+2024,L - Atividades imobiliarias,QRDN,8989276,0.32306960248815975
+2024,L - Atividades imobiliarias,QRES,1025409,0.03685263173783755
+2024,"M - Atividades profissionais, cientificas e tecnicas",DICT,101708330,0.01803721590324178
+2024,"M - Atividades profissionais, cientificas e tecnicas",INIC,1182,2.0961890926369338e-07
+2024,"M - Atividades profissionais, cientificas e tecnicas",MANU,19229915,0.003410282409080826
+2024,"M - Atividades profissionais, cientificas e tecnicas",Não informado,1141206,0.0002023843967556535
+2024,"M - Atividades profissionais, cientificas e tecnicas",QRDN,5248407989,0.9307661235406383
+2024,"M - Atividades profissionais, cientificas e tecnicas",QRES,268315645,0.04758378413137425
+2024,N - Atividades administrativas e servicos complementares,DICT,123198756,0.04511108027846676
+2024,N - Atividades administrativas e servicos complementares,INIC,759,2.7791928297844395e-07
+2024,N - Atividades administrativas e servicos complementares,MANU,26535570,0.009716398666435188
+2024,N - Atividades administrativas e servicos complementares,Não informado,932274,0.00034136616814156237
+2024,N - Atividades administrativas e servicos complementares,QRDN,2269681430,0.8310780442886553
+2024,N - Atividades administrativas e servicos complementares,QRES,310659984,0.11375283267901827
+2024,"O - Administracao publica, defesa e seguridade social",DICT,1197174,0.007377601154657864
+2024,"O - Administracao publica, defesa e seguridade social",MANU,466871,0.00287709892519907
+2024,"O - Administracao publica, defesa e seguridade social",Não informado,7220,4.4493348783576804e-05
+2024,"O - Administracao publica, defesa e seguridade social",QRDN,157381135,0.9698633977160923
+2024,"O - Administracao publica, defesa e seguridade social",QRES,3219045,0.019837408855267174
+2024,P - Educacao,DICT,61358457,0.41295900780738287
+2024,P - Educacao,INIC,140,9.422378579864485e-07
+2024,P - Educacao,MANU,10872829,0.07317707933723527
+2024,P - Educacao,Não informado,359456,0.0024192360820026915
+2024,P - Educacao,QRDN,57105093,0.38433271791740664
+2024,P - Educacao,QRES,18886465,0.1271110166181145
+2024,Pessoa fisica,DICT,17284,0.33136503067484663
+2024,Pessoa fisica,MANU,8185,0.15692101226993865
+2024,Pessoa fisica,Não informado,2319,0.04445935582822086
+2024,Pessoa fisica,QRDN,20362,0.39037576687116565
+2024,Pessoa fisica,QRES,4010,0.07687883435582822
+2024,Q - Saude humana e servicos sociais,DICT,64749198,0.5260656361253089
+2024,Q - Saude humana e servicos sociais,MANU,11421229,0.09279367598063261
+2024,Q - Saude humana e servicos sociais,Não informado,345886,0.0028102083768950866
+2024,Q - Saude humana e servicos sociais,QRDN,22922570,0.18623823523925226
+2024,Q - Saude humana e servicos sociais,QRES,23643093,0.19209224427791116
+2024,"R - Artes, cultura, esporte e recreacao",DICT,31824341,0.030116260598547943
+2024,"R - Artes, cultura, esporte e recreacao",INIC,339,3.2080514543593386e-07
+2024,"R - Artes, cultura, esporte e recreacao",MANU,6069159,0.005743414264509755
+2024,"R - Artes, cultura, esporte e recreacao",Não informado,186865,0.00017683555605276042
+2024,"R - Artes, cultura, esporte e recreacao",QRDN,987184873,0.9342005508994659
+2024,"R - Artes, cultura, esporte e recreacao",QRES,31450641,0.0297626178762783
+2024,S - Outras atividades de servicos,DICT,204946940,0.4630892171542132
+2024,S - Outras atividades de servicos,INIC,173,3.909032970566864e-07
+2024,S - Outras atividades de servicos,MANU,51781171,0.11700248826217384
+2024,S - Outras atividades de servicos,Não informado,1095564,0.0024754889002116275
+2024,S - Outras atividades de servicos,QRDN,79209110,0.17897746968743208
+2024,S - Outras atividades de servicos,QRES,105531741,0.2384549450926722
+2024,T - Servicos domesticos,DICT,1425751,0.6781704655126242
+2024,T - Servicos domesticos,MANU,238446,0.11341884720377064
+2024,T - Servicos domesticos,Não informado,16518,0.007856925753050517
+2024,T - Servicos domesticos,QRDN,217783,0.10359031730697425
+2024,T - Servicos domesticos,QRES,203851,0.09696344422358039
+2024,U - Organismos internacionais e outras instituicoes extraterritoriais,DICT,156149,0.6164538771900735
+2024,U - Organismos internacionais e outras instituicoes extraterritoriais,MANU,26972,0.10648159114416783
+2024,U - Organismos internacionais e outras instituicoes extraterritoriais,Não informado,35,0.00013817498480075168
+2024,U - Organismos internacionais e outras instituicoes extraterritoriais,QRES,70146,0.2769263566809579
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",APDN,724,6.818053829853395e-05
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",DICT,5359462,0.5047113316996372
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",MANU,1246182,0.11735546903030888
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,53474,0.005035754288640614
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRDN,2845440,0.2679608161549454
+2025,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRES,1113584,0.10486844828816938
+2025,B - Industrias extrativas,DICT,2185751,0.75915193138652
+2025,B - Industrias extrativas,MANU,397389,0.1380205827936292
+2025,B - Industrias extrativas,Não informado,6981,0.002424631000058697
+2025,B - Industrias extrativas,QRDN,108640,0.037732690423489014
+2025,B - Industrias extrativas,QRES,180440,0.062670164396303
+2025,C - Industrias de transformacao,APDN,88760,0.00014468653729343993
+2025,C - Industrias de transformacao,APES,104,1.6952906577870384e-07
+2025,C - Industrias de transformacao,DICT,179617064,0.292791471709939
+2025,C - Industrias de transformacao,INIC,186,3.03196213796528e-07
+2025,C - Industrias de transformacao,MANU,36090259,0.05883026819212941
+2025,C - Industrias de transformacao,Não informado,1408203,0.0022954936443920007
+2025,C - Industrias de transformacao,QRDN,309345926,0.504260825357962
+2025,C - Industrias de transformacao,QRES,86913623,0.1416767818330045
+2025,D - Eletricidade e gas,DICT,785684,0.0024306743076264836
+2025,D - Eletricidade e gas,MANU,461399,0.0014274322690350726
+2025,D - Eletricidade e gas,Não informado,1638,5.067488348868222e-06
+2025,D - Eletricidade e gas,QRDN,75005580,0.23204511767405578
+2025,D - Eletricidade e gas,QRES,246982752,0.7640917082609339
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",DICT,4732405,0.029592950471887435
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",MANU,684035,0.0042774474872792
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,34658,0.0002167254234273429
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRDN,9001402,0.05628809105804523
+2025,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRES,145464133,0.9096247855593608
+2025,F - Construcao,APDN,3537,3.9580027817250873e-05
+2025,F - Construcao,AUTO,27,3.021376169255792e-07
+2025,F - Construcao,DICT,58442771,0.6539910946839759
+2025,F - Construcao,MANU,9792096,0.10957631667209246
+2025,F - Construcao,Não informado,921566,0.010312583521468086
+2025,F - Construcao,QRDN,13428580,0.1502695985146109
+2025,F - Construcao,QRES,6774675,0.07581052444241845
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",APDN,2268275,0.00027545929506200844
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",APES,4104,4.983897221167991e-07
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",AUTO,851,1.0334543214458968e-07
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",DICT,1242537647,0.1508937603820642
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",INIC,2290,2.7809757886146934e-07
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",MANU,304529682,0.03698208177102759
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,5633637,0.0006841488252770268
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRDN,5754654061,0.6988451360477826
+2025,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRES,924889183,0.11231853384605346
+2025,"H - Transporte, armazenagem e correio",APDN,26443,8.658571916451955e-05
+2025,"H - Transporte, armazenagem e correio",APES,29,9.495843345199361e-08
+2025,"H - Transporte, armazenagem e correio",DICT,108545803,0.3554254969196106
+2025,"H - Transporte, armazenagem e correio",INIC,46,1.506237220273002e-07
+2025,"H - Transporte, armazenagem e correio",MANU,29205616,0.09563170839174068
+2025,"H - Transporte, armazenagem e correio",Não informado,817572,0.002677081253593563
+2025,"H - Transporte, armazenagem e correio",QRDN,132182850,0.43282332293861564
+2025,"H - Transporte, armazenagem e correio",QRES,34618423,0.11335555919511948
+2025,I - Alojamento e alimentacao,APDN,501762,0.0002970967750885849
+2025,I - Alojamento e alimentacao,APES,733,4.3401440551483123e-07
+2025,I - Alojamento e alimentacao,DICT,286381970,0.16956875915377384
+2025,I - Alojamento e alimentacao,INIC,572,3.386851841125286e-07
+2025,I - Alojamento e alimentacao,MANU,72971192,0.04320675104445922
+2025,I - Alojamento e alimentacao,Não informado,1661124,0.0009835630905135314
+2025,I - Alojamento e alimentacao,QRDN,1111685557,0.6582367614471747
+2025,I - Alojamento e alimentacao,QRES,215681124,0.12770629578940054
+2025,J - Informação e comunicação,APDN,6268,2.7687097417130445e-06
+2025,J - Informação e comunicação,AUTO,351808,0.00015540112265676178
+2025,J - Informação e comunicação,DICT,43772861,0.019335409488409543
+2025,J - Informação e comunicação,MANU,9563873,0.0042245673809199686
+2025,J - Informação e comunicação,Não informado,531466,0.00023475990612464344
+2025,J - Informação e comunicação,QRDN,1884210132,0.8322959393590973
+2025,J - Informação e comunicação,QRES,325433981,0.14375115403305008
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",APDN,22731,9.236351527438483e-06
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",AUTO,32344,1.3142429008995218e-05
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",DICT,23354775,0.009489811787613043
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",MANU,26973922,0.010960390025326932
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,861189,0.0003499293623493564
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",QRDN,2324540510,0.9445371206779786
+2025,"K - Atividades financeiras, de seguros e servicos relacionados",QRES,85251220,0.03464036936619569
+2025,L - Atividades imobiliarias,APDN,2704,7.862141763720309e-05
+2025,L - Atividades imobiliarias,AUTO,79,2.29700147682657e-06
+2025,L - Atividades imobiliarias,DICT,15365232,0.44675899488332743
+2025,L - Atividades imobiliarias,MANU,5499273,0.15989668610724658
+2025,L - Atividades imobiliarias,Não informado,147228,0.004280796625699015
+2025,L - Atividades imobiliarias,QRDN,12261853,0.356525246197852
+2025,L - Atividades imobiliarias,QRES,1116295,0.03245735776676096
+2025,"M - Atividades profissionais, cientificas e tecnicas",APDN,11018,2.079457469161281e-06
+2025,"M - Atividades profissionais, cientificas e tecnicas",AUTO,608597,0.0001148621870901387
+2025,"M - Atividades profissionais, cientificas e tecnicas",DICT,124762388,0.02354674891967669
+2025,"M - Atividades profissionais, cientificas e tecnicas",MANU,23477357,0.004430946212544553
+2025,"M - Atividades profissionais, cientificas e tecnicas",Não informado,1505451,0.0002841279112730368
+2025,"M - Atividades profissionais, cientificas e tecnicas",QRDN,5002038973,0.9440485844473292
+2025,"M - Atividades profissionais, cientificas e tecnicas",QRES,146093619,0.027572650864617212
+2025,N - Atividades administrativas e servicos complementares,APDN,34614,1.3009759440516208e-05
+2025,N - Atividades administrativas e servicos complementares,AUTO,51885,1.9501108469728535e-05
+2025,N - Atividades administrativas e servicos complementares,DICT,147845167,0.05556797992468208
+2025,N - Atividades administrativas e servicos complementares,INIC,67,2.5182119446310337e-08
+2025,N - Atividades administrativas e servicos complementares,MANU,34366355,0.012916681440959768
+2025,N - Atividades administrativas e servicos complementares,Não informado,1332175,0.0005007013428863952
+2025,N - Atividades administrativas e servicos complementares,QRDN,2042177964,0.7675577525383709
+2025,N - Atividades administrativas e servicos complementares,QRES,434809762,0.16342434870307118
+2025,"O - Administracao publica, defesa e seguridade social",APDN,211,8.561899426629885e-07
+2025,"O - Administracao publica, defesa e seguridade social",DICT,1313734,0.005330833356087291
+2025,"O - Administracao publica, defesa e seguridade social",MANU,584490,0.00237172729662128
+2025,"O - Administracao publica, defesa e seguridade social",Não informado,9840,3.9928478842672065e-05
+2025,"O - Administracao publica, defesa e seguridade social",QRDN,238106490,0.9661819053117793
+2025,"O - Administracao publica, defesa e seguridade social",QRES,6425878,0.02607474936672682
+2025,P - Educacao,APDN,5038,1.6077393495948223e-05
+2025,P - Educacao,AUTO,1260,4.020943986680183e-06
+2025,P - Educacao,DICT,68833868,0.21966438699566465
+2025,P - Educacao,MANU,12298817,0.03924829703129366
+2025,P - Educacao,Não informado,541666,0.0017285782900707204
+2025,P - Educacao,QRDN,212200880,0.6771808352414628
+2025,P - Educacao,QRES,19477723,0.062157804104025625
+2025,Pessoa fisica,DICT,12097,0.41845100141824343
+2025,Pessoa fisica,MANU,8813,0.3048531599155972
+2025,Pessoa fisica,Não informado,466,0.016119547545746998
+2025,Pessoa fisica,QRDN,6905,0.23885295236777473
+2025,Pessoa fisica,QRES,628,0.021723338752637586
+2025,Q - Saude humana e servicos sociais,APDN,9973,6.194989650397968e-05
+2025,Q - Saude humana e servicos sociais,APES,13,8.075289828053102e-08
+2025,Q - Saude humana e servicos sociais,AUTO,1047,6.503714192285845e-06
+2025,Q - Saude humana e servicos sociais,DICT,75849294,0.47115771715631477
+2025,Q - Saude humana e servicos sociais,MANU,14636550,0.09091875640983894
+2025,Q - Saude humana e servicos sociais,Não informado,585370,0.003636178774344188
+2025,Q - Saude humana e servicos sociais,QRDN,36954769,0.2295542078490401
+2025,Q - Saude humana e servicos sociais,QRES,32947918,0.20466460544686746
+2025,"R - Artes, cultura, esporte e recreacao",APDN,13017,1.8066677977653442e-06
+2025,"R - Artes, cultura, esporte e recreacao",AUTO,3316,4.602374139502098e-07
+2025,"R - Artes, cultura, esporte e recreacao",DICT,35473446,0.004923464128752236
+2025,"R - Artes, cultura, esporte e recreacao",MANU,15692767,0.002178045386551023
+2025,"R - Artes, cultura, esporte e recreacao",Não informado,448100,6.219311978018366e-05
+2025,"R - Artes, cultura, esporte e recreacao",QRDN,6958898908,0.965846090880235
+2025,"R - Artes, cultura, esporte e recreacao",QRES,194447485,0.02698793957946991
+2025,S - Outras atividades de servicos,APDN,23565,3.834108235650335e-05
+2025,S - Outras atividades de servicos,APES,57,9.274100124424744e-08
+2025,S - Outras atividades de servicos,AUTO,7895,1.2845442189883044e-05
+2025,S - Outras atividades de servicos,DICT,240138613,0.390713954509208
+2025,S - Outras atividades de servicos,INIC,190,3.0913667081415813e-07
+2025,S - Outras atividades de servicos,MANU,68565581,0.11155860759357103
+2025,S - Outras atividades de servicos,Não informado,1616159,0.0026295474356123104
+2025,S - Outras atividades de servicos,QRDN,141550050,0.2303069011083033
+2025,S - Outras atividades de servicos,QRES,162712777,0.26473940095108695
+2025,T - Servicos domesticos,APDN,170,5.6337785454445435e-05
+2025,T - Servicos domesticos,DICT,1905180,0.6313742476005902
+2025,T - Servicos domesticos,MANU,325077,0.10773010754220445
+2025,T - Servicos domesticos,Não informado,24484,0.008113966700392012
+2025,T - Servicos domesticos,QRDN,383908,0.12722662669556023
+2025,T - Servicos domesticos,QRES,378694,0.12549871367579857
+2025,U - Organismos internacionais e outras instituicoes extraterritoriais,DICT,188689,0.6097402555435633
+2025,U - Organismos internacionais e outras instituicoes extraterritoriais,MANU,28932,0.09349249332704276
+2025,U - Organismos internacionais e outras instituicoes extraterritoriais,Não informado,47,0.00015187844554026718
+2025,U - Organismos internacionais e outras instituicoes extraterritoriais,QRES,91790,0.2966153726838537
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",APDN,3272,0.0002893911094310546
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",DICT,5617927,0.4968759557557079
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",MANU,1148367,0.10156699271516255
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",Não informado,70726,0.006255340955263071
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRDN,3230659,0.28573471644358844
+2026,"A - Agricultura, pecuaria, producao florestal, pesca e aquicultura",QRES,1235547,0.10927760302084695
+2026,B - Industrias extrativas,DICT,2034402,0.7285368506282478
+2026,B - Industrias extrativas,MANU,348309,0.12473244811274978
+2026,B - Industrias extrativas,Não informado,9165,0.0032820653125625572
+2026,B - Industrias extrativas,QRDN,185580,0.06645779385764969
+2026,B - Industrias extrativas,QRES,214993,0.07699084208879016
+2026,C - Industrias de transformacao,APDN,378460,0.0006154193792157431
+2026,C - Industrias de transformacao,APES,1107,1.8001090017223157e-06
+2026,C - Industrias de transformacao,AUTO,296,4.8132995890678e-07
+2026,C - Industrias de transformacao,DICT,169078063,0.27494032809401336
+2026,C - Industrias de transformacao,INIC,659,1.071609604458e-06
+2026,C - Industrias de transformacao,MANU,33976381,0.055249493481523984
+2026,C - Industrias de transformacao,Não informado,1935065,0.0031466376923376628
+2026,C - Industrias de transformacao,QRDN,320273667,0.5208017262703842
+2026,C - Industrias de transformacao,QRES,89319062,0.1452430420339599
+2026,D - Eletricidade e gas,AUTO,89971,0.0002805677111803406
+2026,D - Eletricidade e gas,DICT,697823,0.0021761078783052185
+2026,D - Eletricidade e gas,MANU,451411,0.001407690823394524
+2026,D - Eletricidade e gas,Não informado,1976,6.162005505022208e-06
+2026,D - Eletricidade e gas,QRDN,60113915,0.18746066556601065
+2026,D - Eletricidade e gas,QRES,259319723,0.8086688060156042
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",APDN,529,3.219829259454e-06
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",DICT,4531357,0.0275807104983586
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",MANU,609127,0.003707532962804228
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",Não informado,44932,0.00027348462813948417
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRDN,16214799,0.09869354301770408
+2026,"E - Agua, esgoto, atividades de gestao de residuos e descontaminacao",QRES,142893682,0.8697415090637342
+2026,F - Construcao,APDN,15140,0.00013720044290550375
+2026,F - Construcao,AUTO,352,3.1898649869707607e-06
+2026,F - Construcao,DICT,58648744,0.5314817472028736
+2026,F - Construcao,INIC,206,1.8667959866931157e-06
+2026,F - Construcao,MANU,9029399,0.08182546512354773
+2026,F - Construcao,Não informado,1186662,0.010753669219229253
+2026,F - Construcao,QRDN,33875669,0.30698525696963297
+2026,F - Construcao,QRES,7593326,0.06881160438083733
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",APDN,10079043,0.0010720313460330449
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",APES,37900,4.031135497155077e-06
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",AUTO,1154228,0.00012276647658602402
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",DICT,1150236022,0.1223418801686187
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",INIC,5752,6.117966063228498e-07
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",MANU,293874847,0.03125723819162843
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",Não informado,7380950,0.0007850556608898884
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRDN,7061338836,0.7510610458902194
+2026,"G - Comercio, reparacao de veiculos automotores e motocicletas",QRES,877709857,0.09335533933392103
+2026,"H - Transporte, armazenagem e correio",APDN,142204,0.0003136333781078335
+2026,"H - Transporte, armazenagem e correio",APES,169,3.727324189208733e-07
+2026,"H - Transporte, armazenagem e correio",AUTO,631,1.3916813984560417e-06
+2026,"H - Transporte, armazenagem e correio",DICT,110271102,0.24320482003272398
+2026,"H - Transporte, armazenagem e correio",INIC,285,6.28572422440526e-07
+2026,"H - Transporte, armazenagem e correio",MANU,29592856,0.06526755502755668
+2026,"H - Transporte, armazenagem e correio",Não informado,1186135,0.002616041229092959
+2026,"H - Transporte, armazenagem e correio",QRDN,274384211,0.6051591164480786
+2026,"H - Transporte, armazenagem e correio",QRES,37830781,0.08343644089820008
+2026,I - Alojamento e alimentacao,APDN,2075690,0.0011889248715269759
+2026,I - Alojamento e alimentacao,APES,7427,4.254076967577456e-06
+2026,I - Alojamento e alimentacao,AUTO,64,3.6658263891875207e-08
+2026,I - Alojamento e alimentacao,DICT,261656234,0.14987286367072267
+2026,I - Alojamento e alimentacao,INIC,2218,1.2704379580028003e-06
+2026,I - Alojamento e alimentacao,MANU,85664326,0.049067272947306666
+2026,I - Alojamento e alimentacao,Não informado,2316243,0.0013267101114329486
+2026,I - Alojamento e alimentacao,QRDN,1178115314,0.674807219932366
+2026,I - Alojamento e alimentacao,QRES,216017121,0.12373144729345528
+2026,J - Informação e comunicação,APDN,48829,1.822795219254273e-05
+2026,J - Informação e comunicação,AUTO,12847729,0.004796079993338893
+2026,J - Informação e comunicação,DICT,43571097,0.016265167689132318
+2026,J - Informação e comunicação,MANU,7949009,0.0029673791400620917
+2026,J - Informação e comunicação,Não informado,736938,0.00027510026076446484
+2026,J - Informação e comunicação,QRDN,2310796824,0.8626245475957233
+2026,J - Informação e comunicação,QRES,302847471,0.11305349736878638
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",APDN,82741,3.574179971143144e-05
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",APES,299,1.291596441149853e-07
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",AUTO,2250241,0.0009720412265316009
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",DICT,27987735,0.012089919371854576
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",MANU,26842685,0.01159528977154065
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",Não informado,1649110,0.000712369433800881
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",QRDN,2118187225,0.9149976861200947
+2026,"K - Atividades financeiras, de seguros e servicos relacionados",QRES,137964534,0.059596823116822045
+2026,L - Atividades imobiliarias,APDN,6384,0.00019132290106055642
+2026,L - Atividades imobiliarias,AUTO,1865,5.589242018764689e-05
+2026,L - Atividades imobiliarias,DICT,14890402,0.4462523353066904
+2026,L - Atividades imobiliarias,MANU,5147244,0.15425840453423287
+2026,L - Atividades imobiliarias,Não informado,196019,0.005874518130167483
+2026,L - Atividades imobiliarias,QRDN,12059486,0.36141225670726274
+2026,L - Atividades imobiliarias,QRES,1066273,0.031955270000398286
+2026,"M - Atividades profissionais, cientificas e tecnicas",APDN,47881,6.013126534537889e-06
+2026,"M - Atividades profissionais, cientificas e tecnicas",APES,70,8.790937060998145e-09
+2026,"M - Atividades profissionais, cientificas e tecnicas",AUTO,12478744,0.0015671407586329749
+2026,"M - Atividades profissionais, cientificas e tecnicas",DICT,130059570,0.016333507057864037
+2026,"M - Atividades profissionais, cientificas e tecnicas",INIC,142,1.7833043752310525e-08
+2026,"M - Atividades profissionais, cientificas e tecnicas",MANU,22128940,0.0027790588395229187
+2026,"M - Atividades profissionais, cientificas e tecnicas",Não informado,2082809,0.0002615691832725784
+2026,"M - Atividades profissionais, cientificas e tecnicas",QRDN,7724527427,0.9700833490958707
+2026,"M - Atividades profissionais, cientificas e tecnicas",QRES,71420540,0.008969335314321435
+2026,N - Atividades administrativas e servicos complementares,APDN,177973,6.618901631600887e-05
+2026,N - Atividades administrativas e servicos complementares,APES,83,3.086809996026777e-08
+2026,N - Atividades administrativas e servicos complementares,AUTO,16354736,0.006082405128575782
+2026,N - Atividades administrativas e servicos complementares,DICT,145806143,0.054226007192109606
+2026,N - Atividades administrativas e servicos complementares,INIC,210,7.810001194766544e-08
+2026,N - Atividades administrativas e servicos complementares,MANU,31384007,0.011671863436502934
+2026,N - Atividades administrativas e servicos complementares,Não informado,1813005,0.0006742652960056057
+2026,N - Atividades administrativas e servicos complementares,QRDN,1966327518,0.7312866792801112
+2026,N - Atividades administrativas e servicos complementares,QRES,526996349,0.195992481682267
+2026,"O - Administracao publica, defesa e seguridade social",APDN,704,2.607999916010548e-06
+2026,"O - Administracao publica, defesa e seguridade social",DICT,1165088,0.004316121315546729
+2026,"O - Administracao publica, defesa e seguridade social",MANU,561190,0.0020789537966846017
+2026,"O - Administracao publica, defesa e seguridade social",Não informado,21675,8.029602014137589e-05
+2026,"O - Administracao publica, defesa e seguridade social",QRDN,260776746,0.9660592779339546
+2026,"O - Administracao publica, defesa e seguridade social",QRES,7413256,0.027462742933756664
+2026,P - Educacao,APDN,22052,9.829743949345064e-05
+2026,P - Educacao,AUTO,76199,0.0003396592867749612
+2026,P - Educacao,DICT,63200329,0.2817173279450242
+2026,P - Educacao,MANU,10159768,0.04528746509375548
+2026,P - Educacao,Não informado,731797,0.0032620066809808043
+2026,P - Educacao,QRDN,133033725,0.5930017474050359
+2026,P - Educacao,QRES,17115646,0.07629349614893526
+2026,Pessoa fisica,DICT,78,0.0025327964670736457
+2026,Pessoa fisica,MANU,30577,0.992888686842447
+2026,Pessoa fisica,QRDN,141,0.004578516690479283
+2026,Q - Saude humana e servicos sociais,APDN,37229,0.00022360345829124315
+2026,Q - Saude humana e servicos sociais,APES,535,3.213297434414437e-06
+2026,Q - Saude humana e servicos sociais,AUTO,64000,0.00038439445944397004
+2026,Q - Saude humana e servicos sociais,DICT,71365127,0.4286306158799261
+2026,Q - Saude humana e servicos sociais,MANU,13367692,0.08028854281802317
+2026,Q - Saude humana e servicos sociais,Não informado,830543,0.004988376992655832
+2026,Q - Saude humana e servicos sociais,QRDN,47499401,0.2852891651766777
+2026,Q - Saude humana e servicos sociais,QRES,33331109,0.20019208791754758
+2026,"R - Artes, cultura, esporte e recreacao",APDN,51771,1.2205361078264057e-05
+2026,"R - Artes, cultura, esporte e recreacao",APES,35,8.251485150745438e-09
+2026,"R - Artes, cultura, esporte e recreacao",AUTO,122443,2.8866759894649244e-05
+2026,"R - Artes, cultura, esporte e recreacao",DICT,32317600,0.0076190913287923065
+2026,"R - Artes, cultura, esporte e recreacao",MANU,17878965,0.004215086120234211
+2026,"R - Artes, cultura, esporte e recreacao",Não informado,1105587,0.000260649563238777
+2026,"R - Artes, cultura, esporte e recreacao",QRDN,4053318781,0.9555971352188313
+2026,"R - Artes, cultura, esporte e recreacao",QRES,136865484,0.03226695739644535
+2026,S - Outras atividades de servicos,APDN,98531,0.00013005673312000655
+2026,S - Outras atividades de servicos,APES,476,6.282997733213214e-07
+2026,S - Outras atividades de servicos,AUTO,243971,0.00032203135293482375
+2026,S - Outras atividades de servicos,DICT,224854451,0.2967983205747693
+2026,S - Outras atividades de servicos,INIC,614,8.104539092842255e-07
+2026,S - Outras atividades de servicos,MANU,61015513,0.08053788442643726
+2026,S - Outras atividades de servicos,Não informado,2335930,0.0030833283392741055
+2026,S - Outras atividades de servicos,QRDN,289024889,0.38150057193890774
+2026,S - Outras atividades de servicos,QRES,180025771,0.23762636788087418
+2026,T - Servicos domesticos,APDN,962,0.0002582793014108708
+2026,T - Servicos domesticos,DICT,2230739,0.59891238102909
+2026,T - Servicos domesticos,MANU,353743,0.09497348744177306
+2026,T - Servicos domesticos,Não informado,43900,0.01178634234089109
+2026,T - Servicos domesticos,QRDN,575117,0.15440833366893533
+2026,T - Servicos domesticos,QRES,520189,0.13966117621789967
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,DICT,169856,0.6039625083559715
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,MANU,21225,0.07547042341663229
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,Não informado,87,0.00030934873202577196
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,QRDN,13301,0.047294798674422905
+2026,U - Organismos internacionais e outras instituicoes extraterritoriais,QRES,76767,0.27296292082094753
